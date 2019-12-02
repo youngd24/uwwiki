@@ -1,0 +1,673 @@
+<html>
+
+<head>
+<meta name="description" content="I had some shop time, so I decided to build the scraper from Stephen Shepherd's FWW article &quot;Make a Wooden Scraper&quot; (in their Working with Handplanes compilation book, originally from FWW 167, not in their online archive unfortunately). I followed the plans from the article pretty closely, but bumped a couple of the dimensions around a bit to fit the scraper and the stock available.  I made the body from hard maple and the blade is half of a card scraper.  ">
+<meta name="verify-v1" content="Um431n5NJJ6JifdWADEsqQVxml/ryP0jbYVhCAiXkfQ=" > 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="Stylesheet" media="Screen" href="../../../0_xGlobal-incl/wkToolsStyle.css">
+<link rel="shortcut icon" href="http://www.wkFineTools.com/0_images/favicon.ico" >
+<title>Building a Wooden-bodied Scraper by Dave Hahn - Traditional Woodworking 
+Tools Internet Magazine - wkFineTools.com</title>
+<meta name="keywords" content="Antiques,Atkins,Bailey,Beardshaw,Blades,Collectables,Chain, Disston,Fine tools,Fine woodworking, Goodell Pratt,Handsaws,Honing,Inlay woods,lacquer thinner,Norris,Oil polish,Old tools,Plane,Pritzlaff,Saw,Shellac,sealer coat, Simonds,solution,Stanley,Sweetheart,Traditional tools,Vintage tool,Wax,Wax stick,Woodworking,Totes,Knob,planer blade,old glue, oxalic acid solution,varnish finish,denatured alcohol,disc sander,mineral spirits,colors ground,remove the finish,wax finish, fancy chairs,furniture,raw umber,raw linseed oil,opaque pigment,lacquer,wax,wood,Goodman,VINTAGE BELKNAP BLUE GRASS WOOD PLANE, VINTAGE DISSTON CAST IRON AND IRON TREE LIMB SAW,BISHOP,1800s,Antique,R.Groves & Sons,Back Saw, Tenon, Dovetail, HARVEY PEACE, HAND SAW, BROOKLYN, N.Y. PAT, 1869,shelton,Disston Saw, Tool and File Manual(1937),beardshaw,shelton plane,beardshaw,steiner and sauer planes,jointer fence,degree campher,bevel,woodworking shooting board,atkins stair saw,hnt gordon planes,shelton basket,shelton plane collector,saw in history henry disston,antique icebox,atkins,bailey plane disassembly,beardshaw saw,buck bro tools,cresson saws, shooting board,disston domain:wkfinetools.com,disston history,disston keystone saws,disston markings chronology,e.c.atkins,finetools.com,lewis hidden treasures,hand powered grinder,sharpen,henry disston,henry disston handsaws,henry disston history,hock,hock custom,plane blades">
+<meta name="verify-v1" content="BYc6d44E2d4CfZYr669VdePlckHqKAy+zvZwvDXE8eA=" >
+</head>
+<SCRIPT LANGUAGE="JavaScript">
+function popUp(URL) {
+var id = 'PUPUP';
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=no,location=0,statusbar=0,menubar=0,resizable=0,width=431 height=375,left = 50,top = 05');");
+}
+</script>
+
+<SCRIPT LANGUAGE="JavaScript">
+function popUp2(URL) {
+var id = 'PUPUP';
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=no,location=0,statusbar=0,menubar=0,resizable=0,width=398 height=422,left = 50,top = 05');");
+}
+</script>
+
+<body bgcolor="#94570C" topmargin="0">
+
+<div align="center">
+	
+
+<div align="center">
+	<table border="0" width="980" cellspacing="0" cellpadding="0" id="table2" bordercolordark="#000000" bordercolor="#86624B" bgcolor="#AC6904" bordercolorlight="#FFFFFF" background="../../../0_xGlobal-incl/0_img/header/0_header-Final-150.jpg">
+		<tr>
+			<td height="150">
+			<table border="0" width="980" cellspacing="0" cellpadding="0" height="150" id="table3">
+				<tr>
+					<td width="6">&nbsp;</td>
+					<td width="12">&nbsp;</td>
+					<td>&nbsp;</td>
+					<td width="127">&nbsp;</td>
+					<td width="385">&nbsp;</td>
+					<td width="6">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="left" height="24" width="6">
+					&nbsp;</td>
+					<td align="left" height="24" width="12">
+					&nbsp;</td>
+					<td align="left" height="24">
+					<p class="menu"><b><font color="#FFFFFF">&nbsp;</font></b><a href="../../../index.asp"><font color="#FFFFFF">HOME</font></a><font color="#FFFFFF">&nbsp; 
+					|&nbsp; 
+					</font> 
+					<a href="../../../zMisc/z_searchR/search.asp">
+					<font color="#FFFFFF">SEARCH</font></a><font color="#FFFFFF">&nbsp; 
+					</font></td>
+					<td align="left" height="24" width="127">
+					&nbsp;</td>
+					<td align="left" height="24" width="385">
+					<p class="menu"><font color="#FFFFFF">
+					<a target="_blank" href="../../../0_Advert/z_track/photoGallery-track.asp">
+					<font color="#FFFFFF">PHOTO GALLERY</font></a>&nbsp; |&nbsp;
+					<a href="../../../z_tDownL/download-index.asp"><font color="#FFFFFF">DOWNLOADS</font></a>&nbsp; |&nbsp; 
+					<a href="../../../zMisc/adver/advertise.asp">
+					<font color="#FFFFFF">ADVERTISE</font></a>&nbsp; |&nbsp; 
+					<a href="../../../zMisc/contact/contactUS.asp">
+					<font color="#FFFFFF">CONTACT US</font></a></font></td>
+					<td align="left" height="24" width="6">
+					<p class="menu"><b><font color="#FFFFFF">&nbsp;</font></b></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		</table>
+</div>
+
+
+
+<table border="1" width="980" id="table1" cellspacing="0" cellpadding="6" bgcolor="#FFFFFF" bordercolordark="#000000" bordercolorlight="#FFFFFF">
+		<tr>
+			<td align="center" valign="top" width="125" bgcolor="#EEC087">
+
+			
+
+
+
+<div align="center">
+
+				<table border="0" width="125" id="table36" cellspacing="0" cellpadding="2" bgcolor="#EEC087">
+					<tr>
+						<td width="125" height="10" align="left" class="small">
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" height="10" align="left" class="small">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<font style="font-size: 8pt">
+						<a href="../../../hUS/hUS-index.asp">
+						<span style="text-decoration: none">US Tools &amp; Makers</span></a><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+						&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="../../../hUS-saws/saws-index.asp">
+						<span style="text-decoration: none">American Saws</span></a><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<span style="font-size: 8pt; ">
+						<a href="../../../hUK/hUK-index.asp">
+						<span style="text-decoration: none">UK Tools &amp; Makers</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+					
+						<p style="margin-top: 0; margin-bottom: 0">
+					
+						<span style="font-size: 8pt">
+						<a href="../../../cCorner/colCorner-index.asp">
+						<span style="text-decoration: none">Collector's Corner</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+					
+						<p style="margin-top: 0; margin-bottom: 0">
+					
+						<span style="font-size: 8pt; ">
+						<a href="../../../cc_hunt/hunt-index.asp">
+						<span style="text-decoration: none">The 
+						Hunt is On!</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<span style="font-size: 8pt">
+						<a href="../../../tRestore/restore-index.asp">
+						<span style="text-decoration: none">Restoring Tools</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../tCare/toolCare-index.asp"><span style="text-decoration: none">Tool 
+			Care</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt">
+			<a href="../../makingTools-index.asp">
+			<span style="text-decoration: none">Making 
+			Fine Tools</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../tUsing/usingT-index.asp"><span style="text-decoration: none">
+			Using Hand Tools</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			
+						<p style="margin-top: 0; margin-bottom: 0">
+			
+						<span style="font-size: 8pt; ">
+						<a href="../../../cc_how/how_index.asp">
+						<span style="text-decoration: none">How 
+						Was It Done?</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../contrib/dAssis/dAssis-index.asp">
+			<span style="text-decoration: none">Diego 
+			de Assis</span></a></span><br>
+			<span style="font-size: 7pt">Woodworking in Brazil</span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<font style="font-size: 8pt">
+			<a href="../../../contrib/pBaker/pBaker-index.asp">
+			<span style="text-decoration: none">Philip 
+			W. Baker</span></a></font><br>
+			<font style="font-size: 7pt">Saw Talk</font><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="text-decoration: none; ">
+			<a href="../../../contrib/pScott/scottG-index.asp">
+			<span style="font-size: 8pt; text-decoration: none">Scott 
+			Grandstaff</span></a></span><span style="font-size: 8pt"><u><br>
+			</u> </span><span style="font-size: 7pt; text-decoration:none">Shop Fun</span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" height="10" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<font style="font-size: 8pt; ">
+			<a href="../../../contrib/cSchwarz/cSchwarz-index.asp">
+			<span style="text-decoration: none">Chris Schwarz</span></a></font><br>
+			<span style="text-decoration: none">
+			<font style="font-size: 7pt; ">Learn. Discover. Build.</font></span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></p>
+						</td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../contrib/mSinger/markSinger-index.asp">
+			<span style="text-decoration: none">Mark Singer</span></a></span><br>
+			<span style="font-size: 7pt; text-decoration: none">
+			Furniture Building</span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p align="left" style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../contrib/bSmalser/bobSmalser-index.asp">
+			<span style="text-decoration: none">Bob Smalser</span></a></span><br>
+			<span style="text-decoration: none; font-size: 7pt; ">Tools and Wood</span><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<font style="font-size: 8pt"><a href="../../../contrib/jThompson/jThompson-index.asp"><span style="text-decoration: none">
+			James Thompson</span></a></font><br>
+			<font style="font-size: 7pt">Shop <span style="text-decoration: none">
+			Tips</span></font><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a href="../../../zMisc/tMakers/tMakers.asp"><font style="font-size: 8pt; text-decoration:none">Fine Tool Makers</font></a><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="125" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+						<a href="../../../zMisc/orgClubs/index.asp"><font style="font-size: 8pt; text-decoration:none">Associations/Clubs</font></a><font style="font-size: 8pt"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					</table>
+						</div>
+
+
+
+
+
+
+<p align="center">
+<a target="_blank" href="../../../0_Advert/z_track/blueSpruce-track.asp">
+<img border="0" src="../../../0_Advert/0_ad-img/2_blueSpruce/img/Toll-BlueSpruce.jpg" width="125" height="349" vspace="2"></a><br>
+<a href="http://www.antiquetools.co.uk/about.php" target="_blank">
+<img border="0" src="../../../0_Advert/0_ad-img/Murland/Tony%20Murland-2.jpg" vspace="2" width="125" height="175"></a><br>
+<a target="_blank" href="../../../0_Advert/z_track/lostArtPress-track.asp">
+<img border="0" src="../../../0_Advert/0_ad-img/3_cs_lostArt/CS-LostArt-125.jpg" width="125" height="46" vspace="2"></a><br>
+<a target="_blank" href="../../../0_Advert/z_track/wkTools-track.asp">
+<img border="0" src="../../../0_Advert/0_ad-img/1_wkTools.com/wkTools%20logo-Banner-125.jpg" width="125" height="61" vspace="2"></a><br>
+<a target="_blank" href="../../../0_Advert/z_track/popWoodWork-track.asp">
+<img border="0" src="../../../0_Advert/0_ad-img/5_popWoodWork/popWoodWork-125.jpg" width="125" height="48" vspace="2"></a><br>
+<a target="_blank" href="../../../0_Advert/z_track/Moxon-track.asp">
+<img border="0" src="../../../0_Advert/0_ad-img/3_cs_lostArt/Moxon-125-2.jpg" width="125" height="148" vspace="2"></a><br>
+<a target="_blank" href="http://www.eaiainfo.org/index.htm">
+<img border="0" src="../../../0_RelatedTopics/0_img/EAIA-125.jpg" width="125" height="70" vspace="2"></a><br>
+<a target="_blank" href="http://www.craftsofnj.org/">
+<img border="0" src="../../../0_RelatedTopics/0_img/CRAFTS-logo-125.jpg" width="125" height="70" vspace="2"></a><br>
+<a target="_blank" href="http://www.pasttools.org/">
+<img border="0" src="../../../0_RelatedTopics/0_img/PAST-Logo-125.jpg" width="125" height="70" vspace="2"></a><br>
+<a target="_blank" href="http://www.mwtca.org/">
+<img border="0" src="../../../0_RelatedTopics/0_img/M-WTCA_Org_Logo-125.jpg" width="125" height="70" vspace="2"></a><br>
+<a href="http://www.htpaa.org.au/index.php" target="_blank">
+<img border="0" src="../../../0_RelatedTopics/0_img/HTPAA-125.jpg" width="125" height="78" vspace="2"></a><br>
+<a target="_blank" href="http://www.taths.org.uk/index.html">
+<img border="0" src="../../../0_RelatedTopics/0_img/TATS-125.jpg" width="125" height="70" vspace="2"></a><br>
+<a href="../../../contrib/cSchwarz/z_art/wBench/wBench1.asp">
+<img border="0" src="../../../0_Advert/0_ad-img/3_cs_lostArt/cover-125-ad.jpg" width="125" height="162" vspace="2"></a><br>
+<a target="_blank" href="http://www.toolemera.com">
+<img border="0" src="../../../0_Advert/0_ad-img/7_toolEmera/theToolemeraPress-140.jpg" width="125" height="61" vspace="2"></a><br>
+<a target="_blank" href="http://www.oldToolsShop.com">
+<img border="0" src="../../../0_Advert/0_ad-img/8_OldToolShop/OldToolsShop-banner-125.jpg" width="125" height="60" vspace="2"></a>
+
+
+
+
+</td>
+			<td align="left" valign="top" bgcolor="#F5F5F5">
+
+				
+
+<div align="center">
+				<div align="left">
+				<table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" valign="bottom" width="100%" height="26">
+						<h4 style="margin-bottom: 0px">
+				<img border="0" src="../../../0_subHeaders/titles_img/MakingTools.jpg" width="680" height="30"></h4>
+						</td>
+					</tr>
+					</table>
+						
+						<hr noshade color="#800000" size="4" align="left" width="680">
+						
+						</div>
+						
+						</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9656378-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=5200451; 
+var sc_invisible=1; 
+var sc_partition=57; 
+var sc_click_stat=1; 
+var sc_security="fc5449e9"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="blogger counters"
+href="http://www.statcounter.com/blogger/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5200451/0/fc5449e9/1/"
+alt="blogger counters" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+<div align="center">
+				<font size="3">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table52">
+					<tr>
+						<td>
+			<font SIZE="2">
+			<p class="subtitle">
+			<font color="#000000">Building a 
+							Wooden-bodied Scraper<font size="2" color="#000000">
+				</font>
+			</font>
+				<font size="2" color="#000000">
+							<span style="font-weight: 400">by Dave Hahn</span></font></p></font>
+						</td>
+						<td width="10">&nbsp;</td>
+						<td align="right" width="120" height="26" valign="bottom">
+						<p align="right">
+						<span style="font-size: 8pt; font-weight: 700">&nbsp;
+						<a href="../../makingTools-index.asp">
+						<img border="0" src="../../../0_xNav/arrowBack.jpg" width="24" height="24"></a> 
+						1 of 3 <a href="wbScraper2.asp">
+						<img border="0" src="../../../0_xNav/arrowNext.jpg" width="24" height="24"></a></span></td>
+					</tr>
+				</table>
+				<font size="2" color="#000000">
+				<p align="left" style="text-indent: 30px">
+				<img src="../../../0_xGlobal-incl/0_img/galoots/Hahn,%20Dave-200.jpg" border="1" align="left" hspace="10" vspace="10"></p>
+				<p align="left" style="text-indent: 30px">&nbsp;</p>
+				<p align="left" style="text-indent: 30px" class="body">I had some shop time, so I decided to build the 
+				scraper from Stephen Shepherd's FWW article &quot;Make a Wooden 
+				Scraper&quot; (in their Working with Handplanes compilation book, 
+				originally from FWW 167, not in their online archive 
+				unfortunately).</p>
+				<p style="text-indent: 30px" align="left" class="body">I followed the plans 
+				from the article pretty closely, but bumped a couple of the 
+				dimensions around a bit to fit the scraper and the stock 
+				available.&nbsp; I made the body from hard maple and the blade is half 
+				of a card scraper. </p>
+				<p style="text-indent: 30px" align="left" class="body">My finished dimensions are 11 inches wide 
+				with the main body being 4 inches wide, 2 inches tall and 3 5/8 
+				inches wide. The blade is roughly 3 by 2.5 inches and is .8 mm 
+				thick.</p>
+				<p align="center">&nbsp;<img src="0_img/completed.jpg" border="1"></p>
+				<p style="text-indent: 30px" align="left" class="body">Here's a quick shot of 
+				some of the tools I used (not the lathe, it just currently lives 
+				at the back of the bench): saws (crosscut and coping), a small 
+				rasp, chisels, some scrapers. I did burn some electrons to do 
+				the hole drilling, however, I didn't use any sandpaper. Doing 
+				the curved cuts with a coping saw really made me wish I had a 
+				bow saw. The only rasp I had is a crappy chisel with about 4 
+				inches of rasp (flat and half round) cut into the blade (now I 
+				need to get some rasps). </p>
+				<p align="center"><img src="0_img/bench_shot.jpg" border="1"></p>
+				<p style="text-indent: 30px" align="left" class="body">I started by 
+				transferring the sketch from the article freehand on to some 
+				graph paper to serve as templates. There is one for the top view 
+				and one for the front view.</p>
+				<p align="center"><img src="0_img/templates.jpg" border="1"></p>
+				<p style="text-indent: 30px" align="left" class="body">I transferred the 
+				layout to my block which is glued up from some 4/4/ stock. The 
+				bottom laminate is smaller than the top two because it is going 
+				to be cut away entirely and because the board I started with 
+				wasn't long enough to make the glue up complete. SWMBO had the 
+				camera out while I started on the first arm, so that one's 
+				already cut and shaped in this shot.</p>
+				<p align="center"><img src="0_img/layout.jpg" border="1"></p>
+				<p style="text-indent: 30px" align="left" class="body">Since I only had a 
+				coping saw and cutting through 3 inches of maple with a 6 inch 
+				blade is no fun, I made as many of the straight cuts as I could 
+				with hand saws. </p>
+				<p align="center"><img src="0_img/strait_cuts.jpg" border="1"></p>
+				<p style="text-indent: 30px" align="left">The slow cut of the 
+				curved parts with the coping saw.</p>
+				<p align="center"><img src="0_img/coping1.jpg" border="1"></p>
+				<p style="text-indent: 30px" align="left">The cuts for the top 
+				view are done.</p>
+			</font>
+				</div>
+				<div align="left">
+				<font SIZE="2">
+
+				<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table51">
+					<tr>
+						<td>
+						<font SIZE="2">
+						<div align="center">
+						
+
+<p style="margin-top: 0; margin-bottom: 0" align="center">
+<a target="_blank" href="../../../0_Advert/z_track/Kramer-track.asp">
+
+<img border="0" src="../../../0_Advert/0_ad-img/4_kramer/KramerBest-540.jpg" width="540" height="86"></p>
+
+
+
+
+</div>
+				</font>
+						</td>
+						<td align="center" width="108">
+				<font size="3">
+						<p align="right">
+						<span style="font-size: 8pt; font-weight: 700">&nbsp;
+						<a href="../../makingTools-index.asp">
+						<img border="0" src="../../../0_xNav/arrowBack.jpg" width="24" height="24"></a> 
+						1 of 3 <a href="wbScraper2.asp">
+						<img border="0" src="../../../0_xNav/arrowNext.jpg" width="24" height="24"></a></span></font></td>
+					</tr>
+				</table>
+					</font></div>
+				</font>
+
+
+					</td>
+			<td align="center" valign="top" width="125" bgcolor="#EEC087">
+			
+
+<div align="center">
+
+<table border="1" width="125" cellspacing="0" cellpadding="3" id="table1" bordercolorlight="#FFFFFF" bordercolordark="#000000" bordercolor="#000000" bgcolor="#EEC087">
+	<tr>
+		<td bgcolor="#CC9900" width="125">
+		<p align="center"><span style="font-size: 8pt"><b>Making Tools</b></span></td>
+	</tr>
+	<tr>
+		<td width="125">
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+							<span style="font-weight: 400">
+							<font color="#000000">
+							<a href="../spill_Plane/Spill_Plane1.asp">Spill Plane</a></font></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+							<font style="font-size: 8pt; font-weight: 400" SIZE="2">
+							<a href="../../../contrib/pScott/art/oldHandles/oldHandles1.asp">Old Style 
+						Handles</a></font></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+		<span style="font-weight: 400">
+		<a href="../aLunn/pSaw/panelSaw1.asp">Panel Saw</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px">
+							<span style="font-size: 8pt">
+							<a href="../gp-Plane/gp-Plane1.asp">
+							Bevel-up Plane</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px">
+							<a href="../perfectMallet/pMallet1.asp">
+							<span style="font-size: 8pt">Making a Mallet</span></a></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px">
+							<span style="font-size: 8pt; ">
+							<a href="../miterJack/miterJack-1.asp">Miter Jack</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px">
+							<span style="font-size: 8pt; ">
+							<a href="../makingScraper/makingScraper.asp">Flexy Scrapers</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+		<span style="font-weight: 400">
+		<a href="../aLunn/acidEtching/acidEtch1.asp">Acid Etching</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+		<span style="font-weight: 400">
+							<font color="#000000">
+							<a href="wbScraper1.asp">
+		Wood Scraper</a></font></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+						<font style="font-size: 8pt; font-weight:400">
+						<span LANG="EN">
+							<a href="../../../contrib/pScott/art/smallProject/sProject1.asp">Smaller Projects</a></span></font></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+		<span style="font-weight: 400">
+							<a href="../floats/floats1.asp">Making Floats</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+		<span style="font-weight: 400">
+		<a href="../../../contrib/jThompson/howTo/dovMKnives/dovMKnives.asp">Marking Knives</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+		<span style="font-weight: 400">
+							<a href="../../../contrib/bSmalser/art/sGage/sGage1.asp">
+		Marking Gage</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+		<span style="font-weight: 400">
+		<a href="../sawHandle/sawHandle-RG-1.asp">Saw Handles</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+		<span style="font-weight: 400">
+		<a href="../viseJig/viseJig1.asp">Vise Fixture</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px" class="linkTitle">
+		<span style="font-weight: 400">
+							<a href="../gp-Plane/gp-Plane1.asp">Bevel-up Plane </a>
+		</span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px">
+		<font style="font-size: 8pt; ">
+							<a href="../sawNuts/sawNuts-1.asp">Split Nuts</a></font></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px">
+							<span style="font-size: 8pt">
+							<a href="../LeatherMallet/LeatherMallet.asp">Leather Mallet</a></span></p>
+		<p align="left" style="margin-top: 4px; margin-bottom: 4px">
+				<font style="font-size: 8pt">
+							<a href="../Hock-AboutSteel/aboutSteel.asp">About 
+							Tool Steel</a></font></p>
+		</td>
+	</tr>
+</table>
+
+
+</div>
+
+
+
+
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3446451563753965";
+//120x600, created 1/9/08
+google_ad_slot = "5895808359";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3446451563753965";
+//120x600, created 1/9/08
+google_ad_slot = "8328627015";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+
+
+
+<p> 
+<script type="text/javascript"><!--
+google_ad_client = "pub-3446451563753965";
+//120x600, created 1/9/08
+google_ad_slot = "8604798430";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+
+
+
+
+
+</td>
+		</tr>
+		</table>
+	
+
+<div align="center">
+	<table border="1" width="980" cellspacing="0" cellpadding="0" id="table1" bgcolor="#BB8532" bordercolordark="#000000">
+		<tr>
+			<td height="10">
+			<table border="0" width="976" cellspacing="0" cellpadding="0" id="table2">
+				<tr>
+					<td align="left" height="24" width="6">
+					&nbsp;</td>
+					<td align="left" height="24" width="400" class="linkTitle">
+					<p class="menu"><span style="font-weight: 400">
+					<span style="letter-spacing: 2px; font-size: 6pt"><a href="../../../index.asp"><font color="#FFFFFF">HOME</font></a><font color="#FFFFFF">&nbsp; 
+					|&nbsp; 
+					</font> 
+					<a href="../../../zMisc/z_searchR/search.asp">
+					<font color="#FFFFFF">SEARCH</font></a></span><font color="#FFFFFF"><span style="font-size: 6pt; letter-spacing: 2px">&nbsp; 
+					</span> </font></span></td>
+					<td align="left" height="24" class="linkTitle">
+					&nbsp;</td>
+					<td align="left" height="24" class="linkTitle" width="376">
+					<p class="menu">
+					<font color="#FFFFFF" style="font-size: 6pt; font-weight: 400; letter-spacing: 2px">
+					<a target="_blank" href="http://photos.oldtoolsshop.net/">
+					<font color="#FFFFFF">PHOTO GALLERY</font></a>&nbsp; |&nbsp;
+					<a href="../../../z_tDownL/download-index.asp"><font color="#FFFFFF">DOWNLOADS</font></a>&nbsp; |&nbsp; 
+					<a href="../../../zMisc/adver/advertise.asp">
+					<font color="#FFFFFF">ADVERTISE</font></a>&nbsp; |&nbsp; 
+					<a href="../../../zMisc/contact/contactUS.asp">
+					<font color="#FFFFFF">CONTACT US</font></a></font></td>
+					<td align="left" height="24" width="6">
+					<p class="menu"><span style="letter-spacing: 2px"><b><font color="#FFFFFF">&nbsp;</font></b></span></td>
+				</tr>
+			</table>
+			<p class="small" align="center" style="margin-top: 3px">
+			<font size="1">Copyright © 1995-2009 wkFineTools.com and Wiktor Kuc.&nbsp; All Rights 
+			Reserved.&nbsp;
+			Designated trademarks and brands are the property of their 
+			respective owners.<br>
+			</font>
+			<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/getFlash.gif" width="88" height="31" vspace="12">
+			<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/getReader.gif" width="88" height="31" vspace="12"></td>
+		</tr>
+		</table>
+</div>
+
+
+
+
+
+<p style="margin-top: 2px; margin-bottom: 2px">&nbsp;</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9656378-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=5200451; 
+var sc_invisible=1; 
+var sc_partition=57; 
+var sc_click_stat=1; 
+var sc_security="fc5449e9"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="blogger counters"
+href="http://www.statcounter.com/blogger/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/5200451/0/fc5449e9/1/"
+alt="blogger counters" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+</body>
+
+</html>

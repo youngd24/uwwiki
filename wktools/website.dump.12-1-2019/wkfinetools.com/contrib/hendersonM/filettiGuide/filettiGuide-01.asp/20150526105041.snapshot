@@ -1,0 +1,721 @@
+<html>
+
+<head>
+<meta name="description" content="This short tutorial is intended for those people who have taken my veneering class. In the class, we use a filetti guide to make decorative banding. This is how the filetti guide is used.">
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="Stylesheet" media="Screen" href="../../00-100-globIncl/wkToolsStyle.css">
+<link rel="shortcut icon" href="http://www.wkFineTools.com/00-100-globIncl/favicon.ico">
+<title>Using the Filetti Guide by P. Michael Henderson</title>
+<meta name="keywords" content="woodworking tools, saws, planes, chisels, edge tools, hand tools, woodworking, metal working, making tools, history of woodworking tools">
+
+<style>
+<!--
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+
+<body bgcolor="#94570C" topmargin="0">
+
+<div align="center">
+
+<div align="center">
+<table border="0" width="980" cellspacing="0" cellpadding="0" id="table2" bordercolordark="#000000" bordercolor="#86624B" bgcolor="#AC6904" bordercolorlight="#FFFFFF" background="../../00-100-globIncl/Headers/0_img/0_header-Final-7.jpg">
+<tr>
+<td height="170">
+<table border="0" width="980" cellspacing="0" cellpadding="0" height="170" id="table3">
+<tr>
+<td width="6" height="10"></td>
+<td width="20" height="10"></td>
+<td height="10"></td>
+<td width="756" colspan="3" align="right" valign="top" height="10">
+</td>
+</tr>
+<tr>
+<td width="6">&nbsp;</td>
+<td width="20">&nbsp;</td>
+<td>&nbsp;</td>
+<td width="756" colspan="3" align="right" valign="top">
+<div align="center">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table4">
+							
+<tr>
+<td align="right" valign="top" height="36">
+&nbsp;</td>
+<td width="10" height="36">&nbsp;</td>
+</tr>
+
+<tr>
+<td align="right" valign="top">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728-Saws for Wood -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4701461783987714"
+     data-ad-slot="8862588783"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</td>
+<td width="10">&nbsp;</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td align="left" height="24" width="6">
+&nbsp;</td>
+<td align="left" height="24" width="20">
+&nbsp;</td>
+<td align="left" height="24">
+<p class="menu"><b><font color="#FFFFFF">&nbsp;<span style="font-size: 6pt; letter-spacing:1px"><a href="../../../index.asp"><font color="#FFFFFF">HOME</font></a></span></font><span style="font-size: 6pt"><font color="#FFFFFF">&nbsp; 
+|&nbsp; 
+</font> 
+<span style="letter-spacing: 1px"> 
+<a href="../../../z_search/search.htm">
+<font color="#FFFFFF">SEARCH</font></a></span></span><font color="#FFFFFF"><span style="font-size: 6pt">&nbsp; 
+</span> 
+</font></b></td>
+<td align="left" height="24" width="83">
+&nbsp;</td>
+<td align="right" height="24" width="655">
+<p class="menu"><b>
+<font color="#FFFFFF" style="font-size: 6pt">
+<span style="letter-spacing: 1px">
+<a href="../../../mLibrary/mLibrary_index-1.asp">
+<font color="#FFFFFF">MASTERS' LIBRARY</font></a></span> |&nbsp;<span style="letter-spacing: 1px"><a href="../../../z_catalogs/catalogsManuals.asp"><font color="#FFFFFF">CATALOGS &amp; MANUALS</font></a></span> |&nbsp;<span style="letter-spacing: 1px"><font color="#FFFFFF"><a href="../../../zMisc/adver/siteStats.asp"><font color="#FFFFFF">SITE STATS</font></a> 
+| </font><a href="../../../zMisc/adver/advertise.asp">
+<font color="#FFFFFF">ADVERTISE</font></a></span>&nbsp;|&nbsp;<span style="letter-spacing: 1px"><a href="../../../zMisc/contact/contactUS.asp"><font color="#FFFFFF">CONTACT US</font></a><font color="#FFFFFF">&nbsp;|&nbsp;<a href="../../../zMisc/contact/privacy.asp"><font color="#FFFFFF">PRIVACY POLICY</font></a></font></span></font></b></td>
+<td align="left" height="24" width="18">
+<p class="menu"><b><font color="#FFFFFF">&nbsp;</font></b></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+<table border="1" width="980" id="table1" cellspacing="0" cellpadding="6" bgcolor="#FFFFFF" bordercolordark="#000000" bordercolorlight="#FFFFFF">
+<tr>
+<td align="center" valign="top" width="125" bgcolor="#EEC087">
+
+
+
+
+
+<div align="center">
+
+<table border="0" width="125" id="table36" cellspacing="0" cellpadding="2" bgcolor="#EEC087">
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<p style="margin-top: 0; margin-bottom: 0">
+<font style="font-size: 8pt">
+<a href="../../../hUS/hUS-index.asp">
+<span style="text-decoration: none">US Tools &amp; Makers</span></a></font>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></font></td>
+</tr>
+<tr>
+<td width="125" align="right" class="small" valign="bottom">
+<p align="right">
+<a href="../../../hUS-borTools/boring-index.asp">
+<span style="text-decoration: none">Boring Tools</span></a>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="right" class="small" valign="bottom">
+<a href="../../../hUS/edge_zIndex/edgeTools-index.asp">
+<span style="text-decoration: none">Edge Tools</span></a>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="right" class="small" valign="bottom">
+<a href="../../../hUS/file_zIndex/files-index.asp">
+<span style="text-decoration: none">Files and Rasps</span></a>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="right" class="small" valign="bottom">
+<p align="right">
+<a href="../../../hUS-mechTools/mechanics-index.asp">
+<span style="text-decoration: none">Mechanic's Tools</span></a>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></font></td>
+</tr>
+<tr>
+<td width="125" align="right" class="small" valign="bottom">
+<a href="../../../hUS/join_zIndex/planes-index.asp">
+<span style="text-decoration: none">Planes - Metal/Wood</span></font></a>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="right" class="small" valign="bottom">
+<a href="../../../hUS-saws/saws-index.asp">
+<span style="text-decoration: none">Saws and Saw Tools</span></font></a>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></font></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<p style="margin-top: 0; margin-bottom: 0">
+<span style="font-size: 8pt">
+<a href="../../../hUK/hUK-index.asp">
+<span style="text-decoration: none">UK Tools &amp; Makers</span></font></a>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></font></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<p style="margin-top: 0; margin-bottom: 0">
+<span style="font-size: 8pt">
+<a href="../../../tRestore/restore-index.asp">
+<span style="text-decoration: none">Restoration &amp; Care</span></a></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></font></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<p style="margin-top: 0; margin-bottom: 0">
+<span style="font-size: 8pt">
+<a href="../../../tMaking/makingTools-index.asp">
+<span style="text-decoration: none">Making &amp; Using Tools</span></a></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></font></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<p style="margin-top: 0; margin-bottom: 0">
+<a href="../../../wWorking/wWorking-index.asp">
+<span style="text-decoration: none; font-size:8pt">Woodworking</span></a></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></font></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<font style="font-size: 8pt">
+<a href="../../../contrib2/HendricksJ/HendricksJ-index.asp">
+<span style="text-decoration: none">Jim Hendricks</span></a></font><br>
+<span style="font-size: 7pt">English Hand Tools</span></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<font style="font-size: 8pt;">
+<a href="../../wMyers/wMyers-index.asp">
+<span style="text-decoration: none">Will Myers</span></a></font><br>
+<span style="font-size: 7pt">Woodworking</font></span></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<font style="font-size: 8pt">
+<a href="../../../contrib2/rittnerB/rittnerB-index.asp">
+<span style="text-decoration: none">Bill Rittner</span></a></font><br>
+<span style="font-size: 7pt">Tool Talk</span></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<font style="font-size: 8pt;">
+<a href="../../../contrib2/rogersC/RogersC-index.asp">
+<span style="text-decoration: none">Cecil Rogers</a></font><br>
+<span style="font-size: 7pt">Unplugged Woodworking</span></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<font style="font-size: 8pt;">
+<a href="../../bSmalser/bobSmalser-index.asp">
+<span style="text-decoration: none">Bob Smalser</span></a></font><br>
+<font style="font-size: 7pt; ">Tools and Wood</span></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<font style="font-size: 8pt">
+<a href="../../../contrib2/stamperJ/stamperJ-index.asp">
+<span style="text-decoration: none">Jason Stamper</span></a></font><br>
+<font style="font-size: 7pt">Woodworking</span></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<font style="font-size: 8pt">
+<a href="../../jThompson/jThompson-index.asp">
+<span style="text-decoration: none">James Thompson</span></a></font><br>
+<font style="font-size: 7pt">Shop Tips</font></span></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<a href="../../../contrib2/TweedaleG/TweedaleG-index.asp">
+<span style="text-decoration: none">Geoffrey Tweedale</span></a></font><br>
+<span style="font-size: 7pt">History of Cutlery &amp; Tools</span></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<font style="font-size: 8pt;">
+<a href="../../../contrib2/myKnickKnacks/myKnickKnacks.asp">
+<span style="text-decoration: none">Wiktor Kuc</span></a></font><br>
+<font style="font-size: 7pt;">My Knick Knacks</span></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<font style="font-size: 8pt;">
+<a href="../../../zMisc/mContributors.asp">
+<span style="text-decoration: none">Other Contributors</span></a></font><br>						
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small" valign="bottom">
+<span style="font-size: 8pt">
+<a href="../../../worldOfTools/worldOfTools-index.asp">
+<span style="text-decoration: none">The World of Tools</span></a></font><br>
+<img border="0" src="../../00-100-globIncl/intNavImg/cellBackground.jpg" width="125" height="1"></td>
+</tr>
+<tr>
+<td width="125" align="left" class="small">
+<p align="center">
+												
+<a href="http://www.facebook.com/wiktor.kuc.5" target="_blank">
+<img border="0" src="../../00-100-globIncl/intNavImg/fb-01-16.gif" vspace="1" width="17" height="16"></a>&nbsp;<a href="../../../wkFineTools.xml" target="_blank"><img border="0" src="../../00-100-globIncl/intNavImg/RSSFeed-01-17.gif" width="17" height="16" vspace="2"></a>&nbsp;<a href="https://twitter.com/wkftools" target="_blank"><img border="0" src="../../00-100-globIncl/intNavImg/tweeter-16.gif" vspace="2" width="17" height="16"></a>&nbsp;
+												
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+<table border="0" width="120" cellspacing="0" cellpadding="0" height="400" id="table1">
+<tr>
+<td height="24" bgcolor="#CC3300">
+<p align="center"><font color="#FFFFFF"><b>Files</b></font></td>
+</tr>
+<tr>
+<td>
+
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/jquery-1.6.2-min.js'></script>
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5337430459&toolId=10026&keyword=%28File%2CFiles%29&width=120&height=400&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=709AEE&color2=[COLORTWO]&format=ImageLink&contentType=TEXT_AND_IMAGE&enableSearch=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=y&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&autoscroll=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+
+</td>
+</tr>
+</table>
+<br>
+
+<table border="0" width="120" cellspacing="0" cellpadding="0" height="600" id="table1">
+<tr>
+<td height="24" bgcolor="#CC3300">
+<p align="center"><font color="#FFFFFF"><b>Arcade</b></font></td>
+</tr>
+<tr>
+<td>		
+
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/jquery-1.6.2-min.js'></script>
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5337430459&toolId=10026&keyword=Arcade+File&width=120&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=709AEE&color2=[COLORTWO]&format=ImageLink&contentType=TEXT_AND_IMAGE&enableSearch=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=y&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&autoscroll=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+
+</td>
+</tr>
+</table>
+<br>
+
+<table border="0" width="120" cellspacing="0" cellpadding="0" height="600" id="table1">
+<tr>
+<td height="24" bgcolor="#CC3300">
+<p align="center"><font color="#FFFFFF"><b>Nicholson</b></font></td>
+</tr>
+<tr>
+<td>
+
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/jquery-1.6.2-min.js'></script>
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5337430459&toolId=10026&keyword=%28Nicholson+File%2CNicholson+Files%29&width=120&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=709AEE&color2=[COLORTWO]&format=ImageLink&contentType=TEXT_AND_IMAGE&enableSearch=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=y&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&autoscroll=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+
+</td>
+</tr>
+</table>
+<br>
+
+<table border="0" width="120" cellspacing="0" cellpadding="0" height="600" id="table1">
+<tr>
+<td height="24" bgcolor="#CC3300">
+<p align="center"><font color="#FFFFFF"><b>Heller</b></font></td>
+</tr>
+<tr>
+<td>		
+
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/jquery-1.6.2-min.js'></script>
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5337430459&toolId=10026&keyword=Heller+Files&width=120&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=709AEE&color2=[COLORTWO]&format=ImageLink&contentType=TEXT_AND_IMAGE&enableSearch=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=y&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&autoscroll=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+
+</td>
+</tr>
+</table>
+<br>
+
+<div align="left">
+<table border="1" width="120" height="600" cellspacing="0" cellpadding="0"  id="table1" bordercolorlight="#709AEE" bordercolor="#709AEE" bordercolordark="#709AEE" style="border-collapse: collapse" >
+<tr>
+<td>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 120-WWtools -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:600px"
+     data-ad-client="ca-pub-4701461783987714"
+     data-ad-slot="3191789585"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</td>
+</tr>
+</table>
+</div>
+<br>
+
+</td>
+<td align="left" valign="top" bgcolor="#F5F5F5">
+
+
+
+<div align="center">
+<div align="left">
+<table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="bottom" height="30" width="14">
+&nbsp;</td>
+<td align="left" valign="bottom" height="30">
+</td>
+<td align="left" valign="bottom" height="30" width="14">
+&nbsp;</td>
+</tr>
+<tr>
+<td align="left" valign="bottom" height="40" width="14">
+&nbsp;</td>
+<td align="left" valign="bottom" height="40">
+<p style="margin-bottom: 0px">
+<b><font style="font-size: 13pt">Woodworking with P. Michael Henderson</font></b><hr noshade color="#800000" size="4" align="left">
+						
+</td>
+<td align="left" valign="bottom" height="40" width="14">
+&nbsp;</td>
+</tr>
+</table>
+						
+</div>
+						
+</div>
+
+
+
+<div align="center">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table50">
+<tr>
+<td height="10" width="14">
+</td>
+<td height="10">
+</td>
+<td align="right" width="105" height="10">
+</td>
+<td align="right" width="14" height="10">
+</td>
+</tr>
+<tr>
+<td width="14">
+&nbsp;</td>
+<td>
+<p class="subtitle" style="margin-bottom: 0">
+<b><span style="font-size: 11pt">Using the Filetti Guide </span></b>
+<span style="font-weight: 400"><font size="2">by 
+P. Michael Henderson</font></span></p>
+</td>
+<td align="right" width="105" height="26">
+<b>
+<span style="font-size: 8pt">
+<a href="../mHend-index.asp">
+<img border="0" src="../../00-100-globIncl/intNavImg/arrowBack.jpg" width="24" height="24"></a></span></b></td>
+<td align="right" width="14" height="26">
+&nbsp;</td>
+</tr>
+</table>
+<font SIZE="2">
+
+<div align="center">
+<table border="0" width="580" cellspacing="0" cellpadding="0" id="table51">
+<tr>
+<td height="30"><font SIZE="2">
+<hr noshade color="#C0C0C0" size="1">
+</font></td>
+</tr>
+<tr>
+<td>
+<p class="body">
+<font SIZE="2">
+
+<img border="1" src="../0_mike/Mike-3-200.jpg" width="200" height="218" align="right" hspace="10" vspace="10"></font>This 
+short tutorial is intended for those people who have taken my 
+veneering class. In the class, we use a filetti guide to make 
+decorative banding. This is how the filetti guide is used.</p>
+<p class="body">The filetti guide is a piece of MDF 
+about 24&quot; long and perhaps three inches wide. A 
+rabbet is milled in each edge, starting with one 
+1/16&quot; wide. The other rabbets are 2/16&quot;, 3/16&quot; and 
+4/16&quot;. I mill these on my router table with a spiral 
+bit.</p>
+<p class="body">To use the filetti guide, you need 
+the guide, a straight edge, a veneer saw, and a 
+piece of veneer (the veneer saw is not shown in the 
+picture).</p>
+<p align="center">
+<img border="1" src="0_img/Filetti-Guide-01[1].jpg" width="540" height="319"></p>
+<p class="body">To use the filetti guide, slide the 
+guide against the veneer so that the veneer is in 
+the rabbet selected. Here, I'm using the 1/16&quot; 
+rabbet.</p>
+<p align="center">
+<img border="1" src="0_img/Filetti-Guide-02[1].jpg" width="540" height="317"></p>
+<p class="body">Then, carefully slide the straight 
+edge against the filetti guide. You want the veneer 
+to remain fully in the rabbet on the filetti guide.</p>
+<p align="center">
+<img border="1" src="0_img/Filetti-Guide-03[1].jpg" width="540" height="292"></p>
+<p class="body">Next, remove the filetti guide. The 
+amount of veneer protruding from the straight edge 
+is the size of the rabbet selected - here it's 
+1/16&quot;.</p>
+<p class="body">
+<img border="1" src="0_img/Filetti-Guide-04[1].jpg" width="540" height="479"></p>
+<p class="body">Use your veneer saw to cut off the 
+piece of veneer. I find that if I tilt the veneer 
+saw slightly I get a better cut. The amount of tilt 
+shown in the picture is excessive - I was trying to 
+take the picture and hold the saw at the same time. 
+Experiment until you find the best angle.</p>
+<p align="center">
+<img border="1" src="0_img/Filetti-Guide-05[1].jpg" width="540" height="456"></p>
+<p class="body">The result is an even width piece of 
+banding. The side of the banding that was against 
+the saw will be rougher than the other side. I 
+sometime pull the banding against a sanding block to 
+smooth the edge.</p>
+<p align="center">
+<img border="1" src="0_img/Filetti-Guide-06[1].jpg" width="540" height="511"></p>
+<p class="body">And that's all there is to it!</p>
+<p><b><span style="font-size: 8pt">Mike 
+Henderson<br>
+Copyright<font face="Times New Roman"> © </font>Mike 
+Henderson</span></b><font COLOR="#0000ff"><b><span style="font-size: 8pt"><br>
+</span></b></font>
+<span style="color: maroon; font-size: 8pt">
+<a title="mailto:mike@mikes-woodwork.com" style="color: blue; text-decoration: underline" href="mailto:mike@mikes-woodwork.com">
+mike@mikes-woodwork.com</a></span><span style="font-size: 8pt"><b><br>
+December, 2012</b></span><p>
+<span style="font-size: 8pt"><b>Related Info</b></span><ul>
+
+<font SIZE="2" style="font-size: 8pt">
+<li>
+<p style="margin-bottom: 5px; margin-top:4px" class="linkTitle">
+<a href="../../jThompson/z_other/keepItSimple.asp">Keep It 
+Simple</a> <span style="font-weight: 400">by James 
+D. Thompson</span></li>
+<li>
+<p style="margin-bottom: 5px; margin-top:4px" class="linkTitle"><b>
+<span style="font-size: 8pt">
+<a href="../../jThompson/carvingDevices/carvDevices.asp">Carving Devices</a></span></b>
+<span style="font-weight: 400">by James D. 
+Thompson</span></p>
+</li>
+<span LANG="EN">
+<li>
+<p style="margin-bottom: 5px; margin-top:5px" class="linkTitle">
+<a href="../../bSmalser/sGage/sGage1.asp">8-Siding or Octagon Marking Gage</a><span style="font-weight: 400"> 
+by Bob Smalser</span></li>
+<li>
+<p align="left" class="linkTitle" style="margin-top: 5px; margin-bottom: 5px">
+<a href="../../cSchwarz/VesperLayoutTools/VesperLayoutTools-1.asp">Chris Vesper: 
+Flawless Layout Tools </a>
+<span style="font-size: 8pt; font-weight:400">by 
+Chris Schwarz</span></p></li>
+</span>
+
+</font>
+<li>
+<p style="margin-top:4px; margin-bottom:4px" class="linkTitle">
+<a href="../../jThompson/Layout/layoutPart.asp">
+<span style="font-size: 8pt">Layout Basics</span></a><span style="font-size: 8pt">
+</span>
+<span style="font-size: 8pt; font-weight: 400">by James D. 
+Thompson</span></p></li>
+</ul></td>
+</tr>
+<tr>
+<td height="30">
+<font SIZE="2">
+<hr noshade color="#C0C0C0" size="1">
+</font></td>
+</tr>
+</table>
+</div>
+
+</font>
+<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table48">
+<tr>
+<td width="616"> 
+<div align="center">
+
+<div align="center">
+<a href="http://www.linkconnector.com/ta.php?lc=062691053344004704&lcpt=0&lcpf=3" target="_blank"><img src="http://www.linkconnector.com/traffic_record.php?lc=062691053344004704"  border="0" alt="Learn how. Discover why. Build better."></a></div>
+</td>
+<td align="right" width="26" height="26">
+<b>
+<span style="font-size: 8pt">
+<a href="../mHend-index.asp">
+<img border="0" src="../../00-100-globIncl/intNavImg/arrowBack.jpg" width="24" height="24"></a></span></b></td>
+</tr>
+</table>
+</div>
+</td>
+<td align="center" valign="top" width="164" bgcolor="#EEC087">
+
+
+
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="340" id="table1">
+<tr>
+<td height="24" bgcolor="#CC3300">
+<p align="center"><font color="#FFFFFF"><b>Winsted Tools</b></font></td>
+</tr>
+<tr>
+<td>		
+
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/jquery-1.6.2-min.js'></script>
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5337429315&toolId=10026&keyword=Winsted&width=160&height=340&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=709AEE&color2=[COLORTWO]&format=ImageLink&contentType=TEXT_AND_IMAGE&enableSearch=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=y&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&autoscroll=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+
+</td>
+</tr>
+</table>
+<br>
+
+<div align="left">
+<table border="1" width="160" height="600" cellspacing="0" cellpadding="0"  id="table1" bordercolorlight="#709AEE" bordercolor="#709AEE" bordercolordark="#709AEE" style="border-collapse: collapse" >
+<tr>
+<td>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 160-Woodworking Tools-2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-4701461783987714"
+     data-ad-slot="4098508388"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</td>
+</tr>
+</table>			
+</div>
+<br>
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="600" id="table1">
+<tr>
+<td height="24" bgcolor="#CC3300">
+<p align="center"><font color="#FFFFFF"><b>Witherby</b></font></td>
+</tr>
+<tr>
+<td>		
+
+
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/jquery-1.6.2-min.js'></script>
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5337022184&toolId=10026&keyword=Witherby&width=160&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=709AEE&color2=[COLORTWO]&format=ImageLink&contentType=TEXT_AND_IMAGE&enableSearch=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=y&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&autoscroll=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+
+
+
+</td>
+</tr>
+</table><br>
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="600" id="table1">
+<tr>
+<td height="24" bgcolor="#CC3300">
+<p align="center"><font color="#FFFFFF"><b>Buck Bros</b></font></td>
+</tr>
+<tr>
+<td>		
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/jquery-1.6.2-min.js'></script>
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5337022184&toolId=10026&keyword=%28Buck+Bros%2CBuck+Brothers%29&width=160&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=0B0B1E&color2=[COLORTWO]&format=ImageLink&contentType=TEXT_AND_IMAGE&enableSearch=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=n&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=1&disWithin=200&ctx=n&autoscroll=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+</td>
+</tr>
+</table><br>
+
+<div align="left">
+<table border="1" width="160" height="600" cellspacing="0" cellpadding="0"  id="table1" bordercolorlight="#709AEE" bordercolor="#709AEE" bordercolordark="#709AEE" style="border-collapse: collapse" >
+<tr>
+<td>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 160-Woodworking Tools-2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-4701461783987714"
+     data-ad-slot="4098508388"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</td>
+</tr>
+</table>			
+</div>
+<br>
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="600" id="table1">
+<tr>
+<td height="24" bgcolor="#CC3300">
+<p align="center"><font color="#FFFFFF"><b>L. &amp; I. J. White</b></font></td>
+</tr>
+<tr>
+<td>		
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/jquery-1.6.2-min.js'></script>
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5337022184&toolId=10026&keyword=L.%26+I.J.White&width=160&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=709AEE&color2=[COLORTWO]&format=ImageLink&contentType=TEXT_AND_IMAGE&enableSearch=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=y&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&autoscroll=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+</td>
+</tr>
+</table><br>
+
+</td>
+</tr>
+</table>
+<div align="center"><table border="1" width="980" cellspacing="0" cellpadding="0" id="table1" bgcolor="#BB8532" bordercolordark="#000000"><tr><td height="10"><table border="0" width="976" cellspacing="0" cellpadding="0" id="table2"><tr><td align="left" height="24" width="6">&nbsp;</td><td align="left" height="24" width="400" class="linkTitle"><p class="menu"><span style="font-weight: 400"><span style="letter-spacing: 2px; font-size: 6pt"><a href="../../../index.asp"><font color="#FFFFFF">HOME</font></a><font color="#FFFFFF">&nbsp; |&nbsp; </font><a href="../../../z_search/search.htm"><font color="#FFFFFF">SEARCH</font></a></span><font color="#FFFFFF"><span style="font-size: 6pt; letter-spacing: 2px">&nbsp; </span></font></span></td><td align="left" height="24" class="linkTitle">&nbsp;</td><td align="left" height="24" class="linkTitle" width="450"><p class="menu"><font color="#FFFFFF" style="font-size: 6pt; font-weight: 400; letter-spacing: 2px"><a href="../../../zMisc/contact/privacy.asp"><font color="#FFFFFF">PRIVACY POLICY</font></a>&nbsp; |&nbsp; </font><b><font color="#FFFFFF" style="font-size: 6pt"><span style="letter-spacing: 1px"><span style="font-weight: 400"><a href="../../../zMisc/adver/siteStats.asp"><font color="#FFFFFF">SITE STATS</font></a></span><font color="#FFFFFF">&nbsp; |&nbsp; </font></span></font></b><font color="#FFFFFF" style="font-size: 6pt; font-weight: 400; letter-spacing: 2px"><a href="../../../zMisc/adver/advertise.asp"><font color="#FFFFFF">ADVERTISE</font></a>&nbsp; |&nbsp; <a href="../../../zMisc/contact/contactUS.asp"><font color="#FFFFFF">CONTACT US</font></a><font color="#FFFFFF">&nbsp; |&nbsp; </font><a href="../../../zMisc/contact/aboutUS.asp"><font color="#FFFFFF">ABOUT US</font></a></font></td><td align="left" height="24" width="6"><p class="menu"><span style="letter-spacing: 2px"><b><font color="#FFFFFF">&nbsp;</font></b></span></td></tr></table><p class="small" align="center" style="margin-top: 3px"><font size="1"><font color="#FFFFFF">Copyright © 2013 wkFineTools.com and Wiktor Kuc.&nbsp; All Rights Reserved.&nbsp; Designated trademarks and brands are the property of their respective owners.<br>No part of the content from this website can be reproduced by any means without specific permission of the publisher.</font><br></font><a href="http://get.adobe.com/flashplayer/" target="_blank"><img border="0" src="../../00-100-globIncl/intNavImg/getFlash.gif" width="88" height="31" vspace="12"></a> <a href="http://get.adobe.com/reader/" target="_blank"><img border="0" src="../../00-100-globIncl/intNavImg/getReader.gif" width="88" height="31" vspace="12"></a> <a target="_blank" href="http://jigsaw.w3.org/css-validator/validator?uri=wkfinetools.com&profile=css21&usermedium=all"><img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" vspace="12" /></a><a href="http://jigsaw.w3.org/css-validator/check/referer"> </a><!--<a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
+			
+			
+			<img border="0" src="0_img/nav-utility/vcss[1].gif" width="88" height="31" vspace="12"></a>--></td></tr></table></div><br><p style="margin-top: 2px; margin-bottom: 2px">&nbsp;</div>
+
+
+</body>
+
+</html>
