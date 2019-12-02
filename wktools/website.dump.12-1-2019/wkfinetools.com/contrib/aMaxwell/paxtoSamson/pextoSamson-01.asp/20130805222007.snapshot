@@ -1,0 +1,808 @@
+<html>
+
+<head>
+<meta name="description" content="As we all know, “Scotch” is an appellation mainly reserved for whisky, but it’s also applied to a certain type of iron brace made in the mid-19th century. They’re a fairly rugged tool, but not as common as the garden variety American ratchet braces which you’ll even find here in Old Tool Hell (Washington State).">
+<meta name="verify-v1" content="Um431n5NJJ6JifdWADEsqQVxml/ryP0jbYVhCAiXkfQ=" > 
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="Stylesheet" media="Screen" href="../../../0_xGlobal-incl/wkToolsStyle.css">
+<link rel="shortcut icon" href="http://www.wkFineTools.com/0_xGlobal-incl/0_img-Nav/favicon.ico" >
+<title>Scotch Brace Disassembly and Repair by Adam Maxwell</title>
+<meta name="keywords" content="Antiques,Atkins,Bailey,Beardshaw,Blades,Collectables,Chain, Disston,Fine tools,Fine woodworking, Goodell Pratt,Handsaws,Honing,Inlay woods,lacquer thinner,Norris,Oil polish,Old tools,Plane,Pritzlaff,Saw,Shellac,sealer coat, Simonds,solution,Stanley,Sweetheart,Traditional tools,Vintage tool,Wax,Wax stick,Woodworking,Totes,Knob,planer blade,old glue, oxalic acid solution,varnish finish,denatured alcohol,disc sander,mineral spirits,colors ground,remove the finish,wax finish, fancy chairs,furniture,raw umber,raw linseed oil,opaque pigment,lacquer,wax,wood,Goodman,VINTAGE BELKNAP BLUE GRASS WOOD PLANE, VINTAGE DISSTON CAST IRON AND IRON TREE LIMB SAW,BISHOP,1800s,Antique,R.Groves & Sons,Back Saw, Tenon, Dovetail, HARVEY PEACE, HAND SAW, BROOKLYN, N.Y. PAT, 1869,shelton,Disston Saw, Tool and File Manual(1937),beardshaw,shelton plane,beardshaw,steiner and sauer planes,jointer fence,degree campher,bevel,woodworking shooting board,atkins stair saw,hnt gordon planes,shelton basket,shelton plane collector,saw in history henry disston,antique icebox,atkins,bailey plane disassembly,beardshaw saw,buck bro tools,cresson saws, shooting board,disston domain:wkfinetools.com,disston history,disston keystone saws,disston markings chronology,e.c.atkins,finetools.com,lewis hidden treasures,hand powered grinder,sharpen,henry disston,henry disston handsaws,henry disston history,hock,hock custom,plane blades">
+<meta name="verify-v1" content="BYc6d44E2d4CfZYr669VdePlckHqKAy+zvZwvDXE8eA=" >
+</head>
+
+<SCRIPT LANGUAGE="JavaScript">
+function popUp(URL) {
+var id = 'PUPUP';
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=yes,location=0,statusbar=0,menubar=0,resizable=0,width=600 height=840,left = 50,top = 05');");
+}
+</script>
+
+<SCRIPT LANGUAGE="JavaScript">
+function popUp2(URL) {
+var id = 'PUPUP';
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=no,location=0,statusbar=0,menubar=0,resizable=0,width=398 height=422,left = 50,top = 05');");
+}
+</script>
+
+
+<body bgcolor="#94570C" topmargin="0">
+
+<div align="center">
+	
+
+<div align="center">
+	<table border="0" width="980" cellspacing="0" cellpadding="0" id="table2" bordercolordark="#000000" bordercolor="#86624B" bgcolor="#AC6904" bordercolorlight="#FFFFFF" background="../../../0_xGlobal-incl/0_header-Final-7.jpg">
+		<tr>
+			<td height="170">
+			<table border="0" width="980" cellspacing="0" cellpadding="0" height="170" id="table3">
+				<tr>
+					<td width="6" height="10"></td>
+					<td width="8" height="10"></td>
+					<td height="10"></td>
+					<td width="756" colspan="3" align="right" valign="top" height="10">
+					</td>
+				</tr>
+				<tr>
+					<td width="6">&nbsp;</td>
+					<td width="8">&nbsp;</td>
+					<td>&nbsp;</td>
+					<td width="756" colspan="3" align="right" valign="top">
+					<div align="center">
+						<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table4">
+							<tr>
+								<td align="right" valign="top">
+					
+<script language='JavaScript1.1'>
+	document.write("<sc"+"ript language='JavaScript1.1' src='http://rover.ebay.com/ar/1/711-53200-19255-110/1?campid=5337089474&toolid=7115320019255110&customid=&mpt=" + Math.floor(Math.random()*999999999999) + "&adtype=3&size=728x90&mpvc='></sc"+"ript>");
+</script>
+<noscript>
+	<a href='http://rover.ebay.com/rover/1/711-53200-19255-110/1?campid=5337089474&toolid=7115320019255110&customid=&mpvc='>
+		<img border='0px' src='http://rover.ebay.com/ar/1/711-53200-19255-110/1?campid=5337089474&toolid=7115320019255110&customid=&mpt=[CACHEBUSTER]&adtype=1&size=728x90&mpvc=' alt='Click Here'>
+	</a>
+</noscript>
+</td>
+								<td width="10">&nbsp;</td>
+							</tr>
+						</table>
+					</div>
+					</td>
+				</tr>
+				<tr>
+					<td align="left" height="24" width="6">
+					&nbsp;</td>
+					<td align="left" height="24" width="8">
+					&nbsp;</td>
+					<td align="left" height="24">
+					<p class="menu"><b><font color="#FFFFFF">&nbsp;</font><a href="../../../index.asp"><font color="#FFFFFF"><span style="font-size: 6pt; letter-spacing:1px">HOME</span></font></a><span style="font-size: 6pt"><font color="#FFFFFF">&nbsp; 
+					|&nbsp; 
+					</font> 
+					<span style="letter-spacing: 1px"> 
+					<a href="../../../z_search/search.htm">
+					<font color="#FFFFFF">SEARCH</font></a></span></span><font color="#FFFFFF"><span style="font-size: 6pt">&nbsp; 
+					</span> 
+					</font></b></td>
+					<td align="left" height="24" width="83">
+					&nbsp;</td>
+					<td align="right" height="24" width="655">
+					<p class="menu"><b>
+					<font color="#FFFFFF" style="font-size: 6pt">
+					<span style="letter-spacing: 1px">
+					<a href="../../../mLibrary/mLibrary_index-1.asp">
+					<font color="#FFFFFF">MASTERS' LIBRARY</font></a></span> |&nbsp;<span style="letter-spacing: 1px"><a href="../../../z_catalogs/catalogsManuals.asp"><font color="#FFFFFF">CATALOGS &amp; MANUALS</font></a></span> |&nbsp;<span style="letter-spacing: 1px"><font color="#FFFFFF"><a href="../../../zMisc/adver/siteStats.asp"><font color="#FFFFFF">SITE STATS</font></a> 
+					| </font><a href="../../../zMisc/adver/advertise.asp">
+					<font color="#FFFFFF">ADVERTISE</font></a></span>&nbsp;|&nbsp;<span style="letter-spacing: 1px"><a href="../../../zMisc/contact/contactUS.asp"><font color="#FFFFFF">CONTACT US</font></a><font color="#FFFFFF">&nbsp;|&nbsp;<a href="../../../zMisc/contact/privacy.asp"><font color="#FFFFFF">PRIVACY POLICY</font></a></font></span></font></b></td>
+					<td align="left" height="24" width="18">
+					<p class="menu"><b><font color="#FFFFFF">&nbsp;</font></b></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		</table>
+</div>
+
+
+
+<table border="1" width="980" id="table1" cellspacing="0" cellpadding="6" bgcolor="#FFFFFF" bordercolordark="#000000" bordercolorlight="#FFFFFF">
+		<tr>
+			<td align="center" valign="top" width="125" bgcolor="#EEC087">
+
+			
+
+
+
+<div align="center">
+
+				<table border="0" width="125" id="table36" cellspacing="0" cellpadding="2" bgcolor="#EEC087">
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<font style="font-size: 8pt">
+						<a href="../../../hUS/hUS-index.asp">
+						<span style="text-decoration: none">US Tools &amp; Makers</span></a></font><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="right" class="small" valign="bottom">
+						<p align="right">
+						<a href="../../../hUS-borTools/boring-index.asp">
+						<span style="text-decoration: none">Boring Tools</span></a><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></td>
+					</tr>
+					<tr>
+						<td width="125" align="right" class="small" valign="bottom">
+						<a href="../../../hUS-edgeTools/edgeTools-index.asp">Edge Tools</span></a></font></font><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></td>
+					</tr>
+					<tr>
+						<td width="125" align="right" class="small" valign="bottom">
+						<p align="right">
+						<a href="../../../hUS-mechTools/mechanics-index.asp">
+						<span style="text-decoration: none">Mechanic's Tools</span></a><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="right" class="small" valign="bottom">
+						<p align="right">
+						<a href="../../../hUS-saws/saws-index.asp">
+						<span style="text-decoration: none">Saws and Saw Tools</span></a></font><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<span style="font-size: 8pt; ">
+						<a href="../../../hUK/hUK-index.asp">
+						<span style="text-decoration: none">UK Tools &amp; Makers</span></a></span><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"><span style="font-size: 8pt; "></font></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<span style="font-size: 8pt">
+						<a href="../../../tRestore/restore-index.asp">
+						<span style="text-decoration: none">Restoration &amp; Care</span></a></font><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<span style="font-size: 8pt">
+						<a href="../../../tMaking/makingTools-index.asp">
+						<span style="text-decoration: none">Making &amp; Using Tools</span></a></font><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<a href="../../../wWorking/wWorking-index.asp">
+						<span style="text-decoration: none; font-size:8pt">Woodworking</span></a></font><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<font style="font-size: 8pt">
+						<a href="../../dAssis/dAssis-index.asp">
+						<span style="text-decoration: none">Diego de Assis</span></a></font><br>
+						<span style="font-size: 7pt">Woodworking in Brazil</font></span><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<font style="font-size: 8pt">
+						<a href="../../CiantiM/mCianti-index.asp">
+						<span style="text-decoration: none">Matthew Cianci</span></a></font><br>
+						<span style="font-size: 7pt">Love Your Saws</font></span><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<font style="font-size: 8pt">
+						<a href="../../pScott/scottG-index.asp">
+						<span style="text-decoration: none">Scott Grandstaff</span></a></font><br>
+						<span style="font-size: 7pt"> Shop Fun</span></font><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<font style="font-size: 8pt">
+						<a href="../../hendersonM/mHend-index.asp">
+						<span style="text-decoration: none">Mike Henderson</span></a></font><br>
+						<span style="font-size: 7pt">Woodworking</font></span><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<font style="font-size: 8pt;">
+						<a href="../../myKnickKnacks/myKnickKnacks.asp">
+						<span style="text-decoration: none">Wiktor Kuc</span></a></font><br>
+						<font style="font-size: 7pt;">My Knick Knacks</font></span></font><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<font style="font-size: 8pt;">
+						<a href="../../wMyers/wMyers-index.asp">
+						<span style="text-decoration: none">Will Myers</span></a></font><br>
+						<span style="font-size: 7pt">Woodworking</font></span><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<font style="font-size: 8pt; ">
+						<a href="../../cSchwarz/cSchwarz-index.asp">
+						<span style="text-decoration: none">Chris Schwarz</span></a></font><br>
+						<font style="font-size: 7pt; ">Learn. Discover. Build.</font><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></span></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<font style="font-size: 8pt;">
+						<a href="../../bSmalser/bobSmalser-index.asp">
+						<span style="text-decoration: none">Bob Smalser</span></a></font><br>
+						<font style="font-size: 7pt; ">Tools and Wood</font></span><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<font style="font-size: 8pt">
+						<a href="../../jThompson/jThompson-index.asp">
+						<span style="text-decoration: none">James Thompson</span></a></font><br>
+						<font style="font-size: 7pt">Shop Tips</font></span><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<span style="font-size: 8pt">
+						<a href="../../../worldOfTools/worldOfTools-index.asp">
+						<span style="text-decoration: none">The World of Tools</span></a></font><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<span style="font-size: 8pt">
+						<a href="../../../zMisc/tMakers/tMakers.asp">
+						<span style="text-decoration: none">Fine Tool Makers</span></a><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" valign="bottom">
+						<span style="font-size: 8pt">
+						<a href="../../../zMisc/orgClubs/Org-index.asp">
+						<span style="text-decoration: none">Associations/Clubs</span></a></font><br>
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small">
+						<p align="center">
+												
+						<a href="http://www.facebook.com/wiktor.kuc.5" target="_blank">
+						<img border="0" src="../../../0_xGlobal-incl/fb-01-16.gif" vspace="1" width="17" height="16"></a>&nbsp;<a href="../../../wkFineTools.xml" target="_blank"><img border="0" src="../../../0_xGlobal-incl/RSSFeed-01-17.gif" width="17" height="16" vspace="2"></a>&nbsp;<a href="https://twitter.com/wkftools" target="_blank"><img border="0" src="../../../0_xGlobal-incl/tweeter-16.gif" vspace="2" width="17" height="16"></a>&nbsp;
+												
+						<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/cellBackground.jpg" width="125" height="1"></td>
+					</tr>
+					<tr>
+						<td width="125" align="left" class="small" height="10">
+						&nbsp;</td>
+					</tr>
+					</table>
+						</div>
+
+
+
+
+
+
+
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=1440302987&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=wkfinetcom-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1933502320" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=1558217770&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=1561585947&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=080696670X&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=1931626111&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=1879335832&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=1879335883&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=1558708405&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=0946819483&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+<br><br>
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=1879335441&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=1861080077&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+
+<br><br>
+
+
+
+<iframe src="http://rcm.amazon.com/e/cm?t=wkfinetcom-20&o=1&p=8&l=as1&asins=0881507326&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+
+</td>
+			<td align="center" valign="top" bgcolor="#F5F5F5" width="654">
+
+				
+
+<div align="center">
+				<div align="left">
+				<table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" valign="bottom" height="10">
+						</td>
+					</tr>
+					<tr>
+						<td align="left" valign="bottom" height="26">
+						<h4 style="margin-bottom: 0px">
+				Tools Restoration, Care, and Maintenance</h4>
+						
+						</td>
+					</tr>
+				</table>
+						
+						</div>
+						
+						</div>
+
+
+
+						<hr noshade color="#800000" size="4" align="left">
+						
+						
+
+<font SIZE="2"><div align="left">
+	<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table37" height="26">
+		<tr>
+			<td height="10">
+			</td>
+			<td width="130" height="10" align="right">
+							</td>
+		</tr>
+		<tr>
+			<td height="26">
+			<p>
+			<span style="font-family: Verdana"><b> 
+			<span style="font-size: 11pt">Pexto Samson Brace Repair</span> </b></span><font size="2">
+			<span style="FONT-WEIGHT: 400">by Adam Maxwell</span></font></td>
+			<td width="130" height="26" align="right">
+													
+							<font SIZE="2"><b><span style="font-size: 8pt">
+							<a href="../../../tRestore/boringTools/borToolsRest-index.asp">
+							<img border="0" src="../../../0_xGlobal-incl/0_img-Nav/arrowBack.jpg" width="24" height="24"></a> 
+							1 of 2 <a href="pextoSamson-02.asp">
+							<img border="0" src="../../../0_xGlobal-incl/0_img-Nav/arrowNext.jpg" width="24" height="24"></a></span></b></font></td>
+		</tr>
+	</table>
+
+				<div align="center">
+					<table border="0" width="580" cellspacing="0" cellpadding="0" id="table39">
+						<tr>
+							<td height="20">
+
+				<font SIZE="2">
+							<hr noshade color="#C0C0C0" size="1">
+
+				</font></td>
+						</tr>
+						<tr>
+							<td>
+			
+					<p class="body">
+					</p>
+					<span style="COLOR: #262626">
+					<div align="center">
+						<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table41">
+							<tr>
+								<td width="240" valign="top">
+					<span style="COLOR: #262626">
+								<font SIZE="2">
+								<img border="1" src="../adamMax/adamMax-01-240.jpg" hspace="0" width="240" height="327"><p align="center">
+								<span style="color: #262626; font-weight: 700">
+								<a href="javascript:popUp('../0_incl/aMaxwell-bio.asp')">Adam R. Maxwell</a></span></font></span></td>
+								<td width="21">&nbsp;</td>
+								<td align="left" valign="top">
+					<span style="COLOR: #262626">
+								<font SIZE="2">
+								<p><b>Pexto Samson Braces</b></p>
+								<p class="body">I'm torn on whether to advertise 
+								how great the Pexto Samson braces are, because 
+								they can still fly under the radar on eBay, 
+								unlike the more-popular Yankee braces. However, 
+								the Pexto braces are one of the nicest-looking 
+								heavy-duty braces made, in my opinion, and the 
+								Samson chuck is superb.</p>
+								<p class="body">The Samson chuck was Pexto's 
+								top-of-the-line chuck, with a ball-bearing head 
+								and the ability to hold round or tanged bits. 
+								Pexto claimed that it “Has tighest grip and 
+								easiest release of any Brace Chuck made.” in 
+								their 1923 catalog. In my experience, they work 
+								as advertised, and you actually have to be 
+								careful not to overtighten.</p>
+								</font>
+								</td>
+							</tr>
+						</table>
+					</div>
+					<p class="body"><font SIZE="2">
+					Braces with the Samson chuck include the 8000 and 8200 
+					series, which are identical except for the enclosed ratched 
+					on the less-common 8200. Both feature ball bearing head and 
+					brass-bushed center handle, and were nickel-plated. Cocobolo 
+					and “tropical hardwood” were used in earlier and later 
+					models, respectively, and A, B, C, D, or E was appended to 
+					the model number as changes were made.</font></p>
+					<p align="left">
+					<b>Repair</b></p>
+					<p align="left" class="body">
+					I sort of collect Samson braces, after buying an 8012E on 
+					eBay and being really impressed with the quality. To this, I 
+					added a couple of 8014 braces, another 8012, an 8008, and 
+					and 8016 (the last two digits are the sweep in inches). Most 
+					of these needed minor repair, particularly in the larger 
+					sweeps. I've noticed that some people have questions about 
+					how to dismantle a brace, so thought I'd share some tips on 
+					my “new” 8010A, which seemed to be in excellent condition.</p>
+					<p align="center">
+					<img border="1" src="0_img/IMG_6555.JPG" width="560" height="373"></p>
+					<p align="left" class="body">The first thing to remove was 
+					the head, mainly to show how it's done. If the head is too 
+					loose, it can be removed and a bushing added inside the 
+					collar, but this was not necessary here. To remove it, 
+					simply remove the three wood screws on the quill plate, and 
+					then unscrew the wood head itself. Note that the wood is 
+					threaded!</p>
+					<p align="left" class="body">This brace has a peened rod 
+					holding the quill on. Some later models use a horseshoe 
+					circlip, so are nominally easier to remove. After cleaning 
+					the bearings and oil hole in the quill, there's not much to 
+					do here.</p>
+					<p align="center">
+					<img border="1" src="0_img/IMG_6556.JPG" width="560" height="447"></p>
+					<p class="body">The next step is to disassemble the chuck. 
+					Unthread the shell from the shank of the brace itself (you 
+					may have to remove a locking ring to do this on later 
+					models). I've taken the names of the parts from the drawing 
+					in Samson's 1923 catalog (scan courtesy of Rose Tools, Inc):</p>
+					<p align="center">
+					<img border="1" src="0_img/SamsonChuck.jpg" width="400" height="282"></p>
+
+				<font SIZE="2">
+							<p class="body">Next, remove the screw in the outer 
+							collar, and unthread the collar from the shell. Do 
+							this over a pan or catch basin of some type, as the 
+							ball bearings will typically fall out at this point 
+							unless you're careful. If you hold the chuck 
+							nose-down, the head will stay in place with the 
+							collar.</p>
+					<p class="body">When you've done this, you'll end up with 
+					the following parts. Note the location of the ball bearings; 
+					these are easily lost, and this brace appears to be missing 
+					about a third of them!</p>
+					<p align="center">
+					<img border="1" src="0_img/IMG_6558.JPG" width="560" height="353"></p>
+					<p class="body">A sticky point: I wasn't able to remove the 
+					screw for the ratchet shank on this brace, so didn't show 
+					that. In some cases, you'll need to remove that and add a 
+					new washer or bushing to remove slop in the shank. This one 
+					was tight, so it wasn't a major problem. I hate having slop 
+					here, as that actually affects how straight a hole you can 
+					bore.</p>
+					<p align="left"><b>Cleaning</b></p>
+					<p class="body">I use WD-40, a bronze brush, and a 
+					toothbrush for most cleaning. If the nickel plating is gone, 
+					you can be more aggressive. The main thing to do is get the 
+					caked-on grease and dirt out of the threads and jaws. It's 
+					particularly helpful to clean the collar and head, since 
+					these are the ball bearing inner and outer races.</p>
+					<p align="center">
+					<img border="1" src="0_img/IMG_6560.JPG" width="560" height="336"></p>
+					<span style="COLOR: #262626">
+					<p class="body">Cleaning the ball bearings is a nuisance, 
+					but I typically put them in a baby food jar with some 
+					solvent and shake them. Dump this onto a clean cloth or 
+					paper towel to avoid losing the bearings. If they're rusted, 
+					consider replacing all of them; chances are that you'll have 
+					to add some anyway, if someone has disassembled the brace 
+					before you.</p>
+					<p align="center">
+					<img border="1" src="0_img/IMG_6561.JPG" width="560" height="368"></p>
+
+				</font>
+							</td>
+						</tr>
+						<tr>
+							<td height="30">
+			
+					<font SIZE="2">
+					<span style="COLOR: #262626">
+							<hr noshade color="#C0C0C0" size="1">
+
+					</font>
+							</td>
+						</tr>
+						</table>
+				</div>
+
+</div></font>
+				<div align="left">
+					<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table38">
+					<tr>
+						<td width="537">
+			<font SIZE="2">
+						
+
+<div align="center">
+
+<script charset="utf-8" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type='text/javascript'>
+document.write('<scr' + 'ipt charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5336781505&toolId=10026&customId=468WTools&keyword=%28plane%2Cchisel%2Chand+saw%2Cdrill%29&sortBy=2&width=468&height=60&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=000004&color2=FFFFFF&format=Html&contentType=TEXT_AND_IMAGE&enableSearch=n&useeBayT=n&usePopularSearches=n&freeShipping=n&topRatedSeller=n&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=&ctx=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '"></scr' + 'ipt>' );
+</script>
+
+
+</div>
+
+</font></td>
+						<td align="right" width="100" height="26">
+						
+							<font SIZE="2"><b><span style="font-size: 8pt">
+							<a href="../../../tRestore/boringTools/borToolsRest-index.asp">
+							<img border="0" src="../../../0_xGlobal-incl/0_img-Nav/arrowBack.jpg" width="24" height="24"></a> 
+							1 of 2 <a href="pextoSamson-02.asp">
+							<img border="0" src="../../../0_xGlobal-incl/0_img-Nav/arrowNext.jpg" width="24" height="24"></a></span></b></font></td>
+					</tr>
+				</table>
+				</div>
+					
+			</td>
+			<td align="center" valign="top" width="164" bgcolor="#EEC087">
+			
+
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="600" id="table1">
+	<tr>
+		<td height="24" bgcolor="#CC3300">
+		<p align="center"><font color="#FFFFFF"><b>Chisels</b></font></td>
+	</tr>
+	<tr>
+		<td>		
+<script charset="utf-8" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type='text/javascript'>
+document.write('<scr' + 'ipt charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5336775636&toolId=10026&keyword=Chisel&width=160&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=000004&color2=FFFFFF&format=Html&contentType=TEXT_AND_IMAGE&enableSearch=n&useeBayT=n&usePopularSearches=n&freeShipping=n&topRatedSeller=n&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=&ctx=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '"></scr' + 'ipt>' );
+</script>
+</td>
+</tr>
+</table>
+<br>
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="600" id="table1">
+	<tr>
+		<td height="24" bgcolor="#CC3300">
+		<p align="center"><font color="#FFFFFF"><b>MF Bit Braces</b></font></td>
+	</tr>
+	<tr>
+		<td>		
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5336779741&toolId=10026&keyword=Millers+Falls+Bit+Brace&width=160&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=000004&color2=FFFFFF&format=Html&contentType=TEXT_AND_IMAGE&enableSearch=n&useeBayT=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=n&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+</td>
+</tr>
+</table>
+<br>
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="600" id="table1">
+	<tr>
+		<td height="24" bgcolor="#CC3300">
+		<p align="center"><font color="#FFFFFF"><b>Chisels</b></font></td>
+	</tr>
+	<tr>
+		<td>		
+<script charset="utf-8" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type='text/javascript'>
+document.write('<scr' + 'ipt charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5336775636&toolId=10026&keyword=Chisel&width=160&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=000004&color2=FFFFFF&format=Html&contentType=TEXT_AND_IMAGE&enableSearch=n&useeBayT=n&usePopularSearches=n&freeShipping=n&topRatedSeller=n&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=&ctx=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '"></scr' + 'ipt>' );
+</script>
+</td>
+</tr>
+</table>
+<br>
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="600" id="table1">
+	<tr>
+		<td height="24" bgcolor="#CC3300">
+		<p align="center"><font color="#FFFFFF"><b>Disston</b></font></td>
+	</tr>
+	<tr>
+		<td>		
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5336777084&toolId=10026&customId=Disston&keyword=Disston+Saw&width=160&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=0B0B1E&color2=FFFFFF&format=Html&contentType=TEXT_AND_IMAGE&enableSearch=n&useeBayT=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=y&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+</td>
+</tr>
+</table>
+<br>
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="600" id="table1">
+	<tr>
+		<td height="24" bgcolor="#CC3300">
+		<p align="center"><font color="#FFFFFF"><b>L. &amp; I. J. White</b></font></td>
+	</tr>
+	<tr>
+		<td>		
+<script type="text/javascript" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type="text/javascript">
+document.write('\x3Cscript type="text/javascript" charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5337087863&toolId=10026&keyword=I.+J.+White&width=160&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=000004&color2=FFFFFF&format=Html&contentType=TEXT_AND_IMAGE&enableSearch=n&useeBayT=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&itemsWithPayPal=n&descriptionSearch=y&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=13849&disWithin=200&ctx=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '&cachebuster=' + (Math.floor(Math.random() * 10000000 )) + '">\x3C/script>' );
+</script>
+</td>
+</tr>
+</table>
+<br>
+
+
+<table border="0" width="160" cellspacing="0" cellpadding="0" height="600" id="table1">
+	<tr>
+		<td height="24" bgcolor="#CC3300">
+		<p align="center"><font color="#FFFFFF"><b>Spokeshaves</b></font></td>
+	</tr>
+	<tr>
+		<td>
+<script charset="utf-8" src='http://adn.ebay.com/files/js/min/ebay_activeContent-min.js'></script>
+<script charset="utf-8" type='text/javascript'>
+document.write('<scr' + 'ipt charset="utf-8" src="http://adn.ebay.com/cb?programId=1&campId=5336782766&toolId=10026&keyword=spokeshave&width=160&height=600&font=1&textColor=000000&linkColor=0000AA&arrowColor=8BBC01&color1=000004&color2=FFFFFF&format=Html&contentType=TEXT_AND_IMAGE&enableSearch=n&useeBayT=y&usePopularSearches=n&freeShipping=n&topRatedSeller=n&showKwCatLink=n&excludeCatId=&excludeKeyword=&catId=&ctx=n&flashEnabled=' + isFlashEnabled + '&pageTitle=' + _epn__pageTitle + '"></scr' + 'ipt>' );
+</script>
+</td>
+	</tr>
+</table>
+
+</td>
+		</tr>
+		</table>
+	
+
+<div align="center">
+	<table border="1" width="980" cellspacing="0" cellpadding="0" id="table1" bgcolor="#BB8532" bordercolordark="#000000">
+		<tr>
+			<td height="10">
+			<table border="0" width="976" cellspacing="0" cellpadding="0" id="table2">
+				<tr>
+					<td align="left" height="24" width="6">
+					&nbsp;</td>
+					<td align="left" height="24" width="400" class="linkTitle">
+					<p class="menu"><span style="font-weight: 400">
+					<span style="letter-spacing: 2px; font-size: 6pt"><a href="../../../index.asp"><font color="#FFFFFF">HOME</font></a><font color="#FFFFFF">&nbsp; 
+					|&nbsp; 
+					</font> 
+					<a href="../../../z_search/search.htm">
+					<font color="#FFFFFF">SEARCH</font></a></span><font color="#FFFFFF"><span style="font-size: 6pt; letter-spacing: 2px">&nbsp; 
+					</span> </font></span></td>
+					<td align="left" height="24" class="linkTitle">
+					&nbsp;</td>
+					<td align="left" height="24" class="linkTitle" width="450">
+					<p class="menu">
+					<font color="#FFFFFF" style="font-size: 6pt; font-weight: 400; letter-spacing: 2px">
+					<a href="../../../zMisc/contact/privacy.asp">
+					<font color="#FFFFFF">PRIVACY POLICY</font></a>&nbsp; |&nbsp; 
+					</font><b>
+					<font color="#FFFFFF" style="font-size: 6pt"> 
+					<span style="letter-spacing: 1px"> 
+					<span style="font-weight: 400"> 
+					<a href="../../../zMisc/adver/siteStats.asp">
+					<font color="#FFFFFF">SITE STATS</font></a></span><font color="#FFFFFF">&nbsp; 
+					|&nbsp; </font></span></font></b>
+					<font color="#FFFFFF" style="font-size: 6pt; font-weight: 400; letter-spacing: 2px">
+					<a href="../../../zMisc/adver/advertise.asp">
+					<font color="#FFFFFF">ADVERTISE</font></a>&nbsp; |&nbsp; 
+					<a href="../../../zMisc/contact/contactUS.asp">
+					<font color="#FFFFFF">CONTACT US</font></a><font color="#FFFFFF">&nbsp; 
+					|&nbsp; </font><a href="../../../zMisc/contact/aboutUS.asp">
+					<font color="#FFFFFF">ABOUT US</font></a></font></td>
+					<td align="left" height="24" width="6">
+					<p class="menu"><span style="letter-spacing: 2px"><b><font color="#FFFFFF">&nbsp;</font></b></span></td>
+				</tr>
+			</table>
+			<p class="small" align="center" style="margin-top: 3px">
+			<font size="1"><font color="#FFFFFF">Copyright © 2013 
+			wkFineTools.com and Wiktor Kuc.&nbsp; All Rights Reserved.&nbsp; Designated trademarks and brands are the property of their 
+			respective owners.<br>
+			No part of the content from this website can be reproduced by any 
+			means without specific permission of the publisher.</font><br>
+			</font><a href="http://get.adobe.com/flashplayer/" target="_blank"><img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/getFlash.gif" width="88" height="31" vspace="12"></a>
+			<a href="http://get.adobe.com/reader/" target="_blank">
+			<img border="0" src="../../../0_xGlobal-incl/0_img/nav-utility/getReader.gif" width="88" height="31" vspace="12"></a>
+			
+			<a target="_blank" href="http://jigsaw.w3.org/css-validator/validator?uri=wkfinetools.com&profile=css21&usermedium=all">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" vspace="12" /></a><a href="http://jigsaw.w3.org/css-validator/check/referer">
+        </a>
+
+			
+			<!--<a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
+			
+			
+			<img border="0" src="0_img/nav-utility/vcss[1].gif" width="88" height="31" vspace="12"></a>--></td>
+		</tr>
+		</table>
+</div>
+
+
+<br>
+
+
+<p style="margin-top: 2px; margin-bottom: 2px">&nbsp;</div>
+
+
+</body>
+
+</html>

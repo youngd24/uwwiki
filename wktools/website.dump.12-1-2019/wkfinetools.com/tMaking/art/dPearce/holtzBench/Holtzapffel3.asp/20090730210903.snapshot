@@ -1,0 +1,562 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="STYLESHEET" type="text/css" href="../../../../0_incl/wkToolsStyle.css">
+<title>Building the Holtzapffel Workbench by David Pearce</title>
+<meta name="keywords" content="Antiques,Atkins,Bailey,Beardshaw,Blades,Collectables,Chain, Disston,Fine tools,Fine woodworking, Goodell Pratt,Handsaws,Honing,Inlay woods,lacquer thinner,Norris,Oil polish,Old tools,Plane,Pritzlaff,Saw,Shellac,sealer coat, Simonds,solution,Stanley,Sweetheart,Traditional tools,Vintage tool,Wax,Wax stick,Woodworking,Totes,Knob,planer blade,old glue, oxalic acid solution,varnish finish,denatured alcohol,disc sander,mineral spirits,colors ground,remove the finish,wax finish, fancy chairs,furniture,raw umber,raw linseed oil,opaque pigment,lacquer,wax,wood,Goodman,VINTAGE BELKNAP BLUE GRASS WOOD PLANE, VINTAGE DISSTON CAST IRON AND IRON TREE LIMB SAW,BISHOP,1800s,Antique,R.Groves & Sons,Back Saw, Tenon, Dovetail, HARVEY PEACE, HAND SAW, BROOKLYN, N.Y. PAT, 1869,shelton,Disston Saw, Tool and File Manual(1937),beardshaw,shelton plane,beardshaw,steiner and sauer planes,jointer fence,degree campher,bevel,woodworking shooting board,atkins stair saw,hnt gordon planes,shelton basket,shelton plane collector,saw in history henry disston,antique icebox,atkins,bailey plane disassembly,beardshaw saw,buck bro tools,cresson saws, shooting board,disston domain:wkfinetools.com,disston history,disston keystone saws,disston markings chronology,e.c.atkins,finetools.com,lewis hidden treasures,hand powered grinder,sharpen,henry disston,henry disston handsaws,henry disston history,hock,hock custom,plane blades">
+
+<SCRIPT LANGUAGE="JavaScript">
+function popUp(URL) {
+var id = 'PUPUP';
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=yes,location=0,statusbar=0,menubar=0,resizable=0,width=610,height=500,left = 50,top = 05');");
+}
+</script>
+<style>
+<!--
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+<body topmargin="0">
+
+
+
+<div align="center">
+	<table border="0" width="980" cellspacing="0" cellpadding="0" id="table2" bordercolordark="#000000" bordercolor="#86624B" bgcolor="#AC6904" bordercolorlight="#FFFFFF" background="../../../../0_incl/0_img/header/0_header-Final-150.jpg">
+		<tr>
+			<td height="150">
+			<table border="0" width="980" cellspacing="0" cellpadding="0" height="150" id="table3">
+				<tr>
+					<td width="6">&nbsp;</td>
+					<td width="469">&nbsp;</td>
+					<td width="111">&nbsp;</td>
+					<td>&nbsp;</td>
+					<td width="6">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="left" height="24" width="6">
+					&nbsp;</td>
+					<td align="left" height="24" width="469">
+					<p class="menu"><b><font color="#FFFFFF">&nbsp;</font></b><a href="../../../../index.asp"><font color="#FFFFFF">HOME</font></a><font color="#FFFFFF">&nbsp; 
+					|&nbsp; 
+					</font> 
+					<a href="../../../../zMisc/z_searchR/search.asp">
+					<font color="#FFFFFF">SEARCH</font></a><font color="#FFFFFF">&nbsp; 
+					</font></td>
+					<td align="left" height="24" width="111">
+					&nbsp;</td>
+					<td align="left" height="24">
+					<p class="menu"><font color="#FFFFFF">
+					<a target="_blank" href="http://photos.oldtoolsshop.net/">
+					<font color="#FFFFFF">PHOTO GALLERY</font></a>&nbsp; |&nbsp;
+					<a href="../../../../z_tDownL/index.asp"><font color="#FFFFFF">DOWNLOADS</font></a>&nbsp; |&nbsp; 
+					<a href="../../../../zMisc/adver/advertise.asp">
+					<font color="#FFFFFF">ADVERTISE</font></a>&nbsp; |&nbsp; 
+					<a href="../../../../zMisc/contact/contactUS.asp">
+					<font color="#FFFFFF">CONTACT US</font></a></font></td>
+					<td align="left" height="24" width="6">
+					<p class="menu"><b><font color="#FFFFFF">&nbsp;</font></b></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		</table>
+</div>
+
+<div align="center">
+	<table border="0" width="770" cellspacing="0" cellpadding="0" id="table2">
+		<tr>
+			<td width="2" align="center" valign="top" bgcolor="#DAB585" background="../../../../0_incl/0_img/nav-utility/verticleLine-Left.gif">
+			&nbsp;</td>
+			<td width="150" align="center" valign="top" bgcolor="#DAB585">
+			
+
+
+
+<div align="center">
+
+				<table border="0" width="144" id="table36" cellspacing="0" cellpadding="2" bgcolor="#EEC087">
+					<tr>
+						<td width="144" height="10" align="left" class="small">
+						<font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="144" height="10" align="left" class="small">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<font style="font-size: 8pt">
+						<a href="../../../../hUS/index.asp">
+						<span style="text-decoration: none">US Tools &amp; Makers</span></a><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<span style="font-size: 8pt; ">
+						<a href="../../../../hUK/index.asp">
+						<span style="text-decoration: none">UK Tools &amp; Makers</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+					
+						<p style="margin-top: 0; margin-bottom: 0">
+					
+						<span style="font-size: 8pt">
+						<a href="../../../../cCorner/colCorner-index.asp">
+						<span style="text-decoration: none">Collector's Corner</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+					
+						<p style="margin-top: 0; margin-bottom: 0">
+					
+						<span style="font-size: 8pt; ">
+						<a href="../../../../cc_hunt/index.asp">
+						<span style="text-decoration: none">The 
+						Hunt is On!</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+						<p style="margin-top: 0; margin-bottom: 0">
+						<span style="font-size: 8pt">
+						<a href="../../../../tRestore/restore-index.asp">
+						<span style="text-decoration: none">Restoring 
+						Old Tools</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../../tCare/toolCare.asp"><span style="text-decoration: none">Tool 
+			Care</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt">
+			<a href="../../../makingTools-index.asp">
+			<span style="text-decoration: none">Making 
+			Fine Tools</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../../tUsing/usingT-index.asp"><span style="text-decoration: none">
+			Using Hand Tools</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			
+						<p style="margin-top: 0; margin-bottom: 0">
+			
+						<span style="font-size: 8pt; ">
+						<a href="../../../../cc_how/how_index.asp">
+						<span style="text-decoration: none">How 
+						Was It Done?</span></a></span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../../contrib/dAssis/dAssis-index.asp">
+			<span style="text-decoration: none">Diego 
+			de Assis</span></a></span><br>
+			<span style="font-size: 7pt">Woodworking in Brazil</span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<font style="font-size: 8pt">
+			<a href="../../../../contrib/pBaker/pBaker-index.asp">
+			<span style="text-decoration: none">Philip 
+			W. Baker</span></a></font><br>
+			<font style="font-size: 7pt">Saw Talk</font><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="text-decoration: none; ">
+			<a href="../../../../contrib/pScott/scottG-index.asp">
+			<span style="font-size: 8pt; text-decoration: none">Scott 
+			Grandstaff</span></a></span><span style="font-size: 8pt"><u><br>
+			</u> </span><span style="font-size: 7pt; text-decoration:none">Shop Fun</span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td width="144" align="left" height="10" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<font style="font-size: 8pt; ">
+			<a href="../../../../contrib/cSchwarz/cSchwarz-index.asp">
+			<span style="text-decoration: none">Chris Schwarz</span></a></font><br>
+			<span style="text-decoration: none">
+			<font style="font-size: 7pt; ">Learn. Discover. Build.</font></span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></p>
+						</td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../../contrib/mSinger/index.asp">
+			<span style="text-decoration: none">Mark Singer</span></a></span><br>
+			<span style="font-size: 7pt; text-decoration: none">
+			Furniture Building</span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p align="left" style="margin-top: 0; margin-bottom: 0">
+			<span style="font-size: 8pt; ">
+			<a href="../../../../contrib/bSmalser/index.asp">
+			<span style="text-decoration: none">Bob Smalser</span></a></span><br>
+			<span style="text-decoration: none; font-size: 7pt; ">Tools and Wood</span><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<font style="font-size: 8pt"><a href="../../../../contrib/jThompson/jThompson-index.asp"><span style="text-decoration: none">
+			James Thompson</span></a></font><br>
+			<font style="font-size: 7pt">Shop <span style="text-decoration: none">
+			Tips</span></font><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+			<a href="../../../../zMisc/tMakers/tMakers.asp"><font style="font-size: 8pt; text-decoration:none">Fine Tool Makers</font></a><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="144" align="left" class="small">
+			<p style="margin-top: 0; margin-bottom: 0">
+						<a href="../../../../zMisc/orgClubs/index.asp"><font style="font-size: 8pt; text-decoration:none">Associations &amp; Clubs</font></a><font style="font-size: 8pt"><img border="0" src="../../../../0_incl/0_img/nav-utility/cellBackground.jpg" width="144" height="1"></font></td>
+					</tr>
+					</table>
+						</div>
+
+
+
+
+
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3446451563753965";
+//120x600, created 1/9/08
+google_ad_slot = "5895808359";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3446451563753965";
+//120x600, created 1/9/08
+google_ad_slot = "8328627015";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+
+
+
+<p> 
+<script type="text/javascript"><!--
+google_ad_client = "pub-3446451563753965";
+//120x600, created 1/9/08
+google_ad_slot = "8604798430";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9656378-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<p>&nbsp;</td>
+			<td width="10" background="../../../../0_incl/0_img/nav-utility/verticleLine.gif">&nbsp;</td>
+			<td align="left" width="5" valign="top">
+			&nbsp;</td>
+			<td align="left" width="586" valign="top">
+			<div align="left">
+				
+
+<div align="center">
+				<div align="left">
+				<table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0">
+					<tr>
+						<td align="left" valign="bottom" width="100%" height="26">
+						<h4 style="margin-bottom: 0px">
+				<img border="0" src="../../../../0_incl-subHeaders/titles_img/MakingTools.jpg" width="660" height="40"></h4>
+						</td>
+					</tr>
+					</table>
+						
+						<hr noshade color="#800000" size="4" align="left">
+						
+						</div>
+						
+						</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9656378-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<table border="0" width="586" cellspacing="0" cellpadding="0" id="table34">
+					<tr>
+						<td>
+			<p class="subtitle">Building the Holtzapffel Workbench
+			<span style="font-weight: 400"><font size="2">by </font></span>
+			<font size="2"><span style="font-weight: 400">David Pearce</span></font></td>
+						<td width="9">&nbsp;</td>
+						<td align="right" width="118" height="26" valign="bottom">
+						<p align="right">
+						<span style="font-size: 8pt; font-weight: 700">
+						<a href="Holtzapffel2.asp">
+						<img border="0" src="../../../../0_incl/0_img/arrowBack.jpg" width="24" height="24"></a> 
+						3 of 18 <a href="Holtzapffel4.asp">
+						<img border="0" src="../../../../0_incl/0_img/arrowNext.jpg" width="24" height="24"></a></span></td>
+					</tr>
+				</table>
+				<p><b>Part III</b></p>
+				<p><b>Base parts and rough cuts.</b></p>
+				<p style="text-indent: 30px">You might’ve read back on the first 
+				page, that I figured the top would give me the most trouble. 
+				Well, I was wrong.&nbsp; The base has been the biggest challenge 
+				so far.&nbsp; The amount of work I’ve put into the base far 
+				exceeds the top at this point.&nbsp; The base is essentially 
+				like Chris Schwarz’s version I mentioned earlier, with one 
+				important modification.&nbsp; It is sized for my height and arm 
+				length.&nbsp; According to Chris, one of the more important 
+				tenants of good workbench design is the working height of the 
+				bench itself.&nbsp; Too high, and your arms and shoulders will 
+				bear the brunt of the work.&nbsp; Too low, and your back will 
+				let you know sooner than later.&nbsp; By choosing the height 
+				based on a simple formula he recommends, I should be able to use 
+				my legs, as well as all those other parts I mentioned in concert 
+				with the tool, and save myself a few bucks on ibuprofen and 
+				chiropractic services in the process.</p>
+				<p align="center">
+				<img border="1" src="part3/0_img/image001.jpg"></p>
+				<div class="Section1">
+					<p class="MsoNormal" align="center"><b>
+					<span style="font-size: 8pt">Two legs clamped and glued up 
+					from two identical 30 inch x 5 inch x 3 ½ inch <br>
+					boards and one leg with the tenon cut.</span></b></div>
+				<div class="Section1">
+					<p class="MsoNormal" style="text-indent: 30px">The first 
+					challenge was getting the legs ready.&nbsp; They’re nothing more 
+					than a couple of boards glued together to achieve the 
+					desired thickness required for a sturdy bench.&nbsp; Once again, 
+					I decided to rely on the small table saw I have to speed the 
+					process along.&nbsp; As usual, cutting straight edges using it 
+					proved to be an education.&nbsp; I finally figured out, if I 
+					glued them together first, then took a couple of crosscut 
+					passes over the table saw using the miter guide, I ended up 
+					with a better set of legs.&nbsp; Cutting each board separately 
+					then gluing them up always left a slight difference in each 
+					board.&nbsp; Once they’re glued up, the difference becomes more 
+					obvious apparently due to the fact that my lumber isn’t 
+					exactly perfect, and maybe somewhat due to distortion from 
+					the clamping pressure.</p>
+					<p class="MsoNormal" style="text-indent: 30px">Maybe it’s 
+					just me learning the finer points of the tool, but I can’t 
+					help think it’s also got a little bit to do with the size 
+					and quality of the table saw.</p>
+					<p class="MsoNormal" style="text-indent: 30px">A little 
+					later on, I got the chance to remake a leg.&nbsp; Not by choice 
+					actually, but only because I screwed up the mortise.&nbsp; I was 
+					able to verify that gluing prior to final cutting did indeed 
+					make a difference in quality.</p>
+					<p class="MsoNormal"><b>It’s all about the Tenons</b></p>
+					<p class="MsoNormal">Both the legs and the stretchers for 
+					the base are mortise and tenon joints, according to Chris’ 
+					article and plans.&nbsp; I honestly couldn’t remember if I have 
+					ever made this type of joint before.&nbsp; After my attempt at 
+					it, I was pretty sure I hadn’t.</p>
+					<p class="MsoNormal" align="center">
+					<img border="1" src="part3/0_img/image002.jpg"></p>
+					<p class="MsoNormal" align="center">
+					<span style="font-size: 8pt; font-weight: 700">Beginning the 
+					tenon work on the side stretchers.&nbsp; <br>
+					“Kerfs” in the work piece after multiple passes over the 
+					table saw.</span></div>
+				<p style="text-indent: 30px">Basically, in my case, it consisted 
+				of making multiple passes at the area with a table saw blade set 
+				to the exact (or near enough) height I wanted to cut off. Not 
+				exactly my finest work, I’ll say that much. I should mention I 
+				also don’t have a dado blade. These pictures show the kerfs I 
+				made in the wood to trim off the waste from the work piece. The 
+				idea is that after this step, I’ll use a chisel and clean off 
+				the rest of the waste, leaving a nice tenon to work with.<br>
+				<br>
+				Initially, it was my intention to use a backsaw and practice my 
+				cutting technique. But I didn’t have a good sharp backsaw and my 
+				burn pile was getting larger than my good wood pile, so I didn’t 
+				want to encourage that any further. I decided to make a jig to 
+				help my table saw cut those tenons.</p>
+				<p align="center">
+				<img border="1" src="part3/0_img/image003.jpg"></p>
+				<p align="center"><b><span style="font-size: 8pt">Table saw jig 
+				for cutting tenons.</span></b></p>
+				<p style="text-indent: 30px">Essentially, this is an 
+				approximation of the jig found in issue 163 of Popular 
+				Woodworking magazine (Table Saw Tenon Jig, by Robert W.Lang, 
+				August 2007). Additionally, you can find the article online
+				<a target="_blank" href="http://www.popularwoodworking.com/projectplans_display/?planid=14784">
+				here</a> .</p>
+				<p style="text-indent: 30px">The jig certainly helped me cut the 
+				smaller edges of the short stretchers’ tenons. I hadn’t tried it 
+				on the larger face of those work pieces until later, which is 
+				when the picture above was taken, during the time I had to make 
+				up a new set of side stretchers (more on that later). At any 
+				rate, it worked fine for what I used it for and saved me from 
+				trying to cut a straight line with unsharpened handsaws.</p>
+				<table border="0" width="586" cellspacing="0" cellpadding="0" id="table38">
+					<tr>
+						<td>
+			
+
+<p style="margin-top: 0; margin-bottom: 0">
+<a target="_blank" href="../../../../0_advertisers/z_track/blueSpruce-track.asp">
+<img border="0" src="../../../../0_advertisers/2_blueSpruce/img/horisBanner-460.jpg" width="460" height="58"></a></p>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9656378-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</td>
+						<td width="8">&nbsp;</td>
+						<td align="right" width="129" height="26" valign="bottom">
+						<p align="right">
+						<span style="font-size: 8pt; font-weight: 700">
+						<a href="Holtzapffel2.asp">
+						<img border="0" src="../../../../0_incl/0_img/arrowBack.jpg" width="24" height="24"></a> 
+						3 of 18 <a href="Holtzapffel4.asp">
+						<img border="0" src="../../../../0_incl/0_img/arrowNext.jpg" width="24" height="24"></a></span></td>
+					</tr>
+				</table>
+				</div>
+			</td>
+			<td align="left" width="5" valign="top">
+			&nbsp;</td>
+			<td align="right" width="10" valign="top" background="../../../../0_incl/0_img/nav-utility/verticleLine-rightSide.jpg">
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="2" align="left" valign="top" bgcolor="#DAB585" height="10" background="../../../../0_incl/0_img/nav-utility/verticleLine-Left.gif">
+			&nbsp;</td>
+			<td width="150" align="left" valign="top" bgcolor="#DAB585" height="10">
+			&nbsp;</td>
+			<td width="10" height="10" background="../../../../0_incl/0_img/nav-utility/verticleLine.gif"></td>
+			<td align="left" width="5" valign="top" height="10">
+			</td>
+			<td align="left" width="586" valign="top" height="10">
+			<p align="right"></td>
+			<td align="left" width="5" valign="top" height="10">
+			</td>
+			<td align="right" width="10" valign="top" background="../../../../0_incl/0_img/nav-utility/verticleLine-rightSide.jpg" height="10">
+			&nbsp;</td>
+		</tr>
+	</table>
+</div>
+
+
+
+<div align="center">
+	<table border="1" width="980" cellspacing="0" cellpadding="0" id="table1" bgcolor="#BB8532" bordercolordark="#000000">
+		<tr>
+			<td height="10">
+			<table border="0" width="976" cellspacing="0" cellpadding="0" id="table2">
+				<tr>
+					<td align="left" height="24" width="6">
+					&nbsp;</td>
+					<td align="left" height="24" width="400" class="linkTitle">
+					<p class="menu"><span style="font-weight: 400">
+					<span style="letter-spacing: 2px; font-size: 6pt"><a href="../../../../index.asp"><font color="#FFFFFF">HOME</font></a><font color="#FFFFFF">&nbsp; 
+					|&nbsp; 
+					</font> 
+					<a href="../../../../zMisc/z_searchR/search.asp">
+					<font color="#FFFFFF">SEARCH</font></a></span><font color="#FFFFFF"><span style="font-size: 6pt; letter-spacing: 2px">&nbsp; 
+					</span> </font></span></td>
+					<td align="left" height="24" class="linkTitle">
+					&nbsp;</td>
+					<td align="left" height="24" class="linkTitle" width="376">
+					<p class="menu">
+					<font color="#FFFFFF" style="font-size: 6pt; font-weight: 400; letter-spacing: 2px">
+					<a target="_blank" href="http://photos.oldtoolsshop.net/">
+					<font color="#FFFFFF">PHOTO GALLERY</font></a>&nbsp; |&nbsp;
+					<a href="../../../../z_tDownL/index.asp"><font color="#FFFFFF">DOWNLOADS</font></a>&nbsp; |&nbsp; 
+					<a href="../../../../zMisc/adver/advertise.asp">
+					<font color="#FFFFFF">ADVERTISE</font></a>&nbsp; |&nbsp; 
+					<a href="../../../../zMisc/contact/contactUS.asp">
+					<font color="#FFFFFF">CONTACT US</font></a></font></td>
+					<td align="left" height="24" width="6">
+					<p class="menu"><span style="letter-spacing: 2px"><b><font color="#FFFFFF">&nbsp;</font></b></span></td>
+				</tr>
+			</table>
+			<p class="small" align="center" style="margin-top: 3px">
+			<font size="1">Copyright © 1995-2009 wkFineTools.com and Wiktor Kuc.&nbsp; All Rights 
+			Reserved.&nbsp;
+			Designated trademarks and brands are the property of their 
+			respective owners.<br>
+			</font>
+			<img border="0" src="../../../../0_incl/0_img/nav-utility/getFlash.gif" width="88" height="31" vspace="12">
+			<img border="0" src="../../../../0_incl/0_img/nav-utility/getReader.gif" width="88" height="31" vspace="12"></td>
+		</tr>
+		</table>
+</div>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9656378-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9656378-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+
+</html>

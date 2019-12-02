@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>wkFineTools.com</title>
+        <description>New posts on wkFineTools.com. You are viewing a feed that contains frequently updated content.&lt;br /&gt;
+&lt;br /&gt;
+When you subscribe to a feed, it is added to the Common Feed List. Updated information from the feed is automatically downloaded to your computer and can be viewed in Internet Explorer and other programs.&lt;br /&gt;
+&lt;br /&gt;
+Set your reader to: http://www.wkfinetools.com/wkFineTools.xml</description>
+        <link>http://www.wkfinetools.com/wkFineTools.xml</link>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <lastBuildDate>Sat, 13 Apr 2013 20:38:01 -0600</lastBuildDate>
+        <pubDate>Sat, 13 Apr 2013 20:36:51 -0600</pubDate>
+        <generator>FeedForAll v2.0 (2.0.4.0) unlicensed version http://www.feedforall.com</generator>
+        <item>
+            <title>Matt Cianci shows his set up for cutting a slot in a saw handle! Read about it...</title>
+            <description>Slotting a Saw Tote by Matthew Cianci.  Until now, I have always instructed students in my saw building classes to cut the saw blade slot in their tote free hand.</description>
+            <link>http://www.wkfinetools.com/contrib/CiantiM/art/slottingTote/slottingTote-01.asp</link>
+            <guid isPermaLink="false">A00ED00B-D4A0-4A70-A92C-F62BA194ADEE</guid>
+            <pubDate>Sat, 13 Apr 2013 20:36:51 -0600</pubDate>
+        </item>
+        <item>
+            <title>The Care and Feeding of the Wooden Plow Plane by Zach Dillinger</title>
+            <description>The wooden plow plane is truly the workhorse joinery plane of the hand tool or hybrid shop.</description>
+            <link>http://www.wkfinetools.com/contrib/zDillinger/plowPlane-Care/plowPlanes-01.asp</link>
+            <guid isPermaLink="false">8E97AFBF-416D-406B-9FEE-6F620F92DA28</guid>
+            <pubDate>Tue, 9 Apr 2013 04:27:38 -0600</pubDate>
+        </item>
+        <item>
+            <title>Daryl Weir and Saws.</title>
+            <description>Daryl Weir talks about his saws.  This time he shows a Disston D8, 20 inch panel saw, 11 PPI Cross Cut.</description>
+            <link>http://www.wkfinetools.com/hUS-saws/Disston/tools/saws/01-Saws/1900-D8-11ppi-Weir/D8-1900-11ppi-01.asp</link>
+            <guid isPermaLink="false">ABD12F66-FA52-471D-97E2-1BCFA2114010</guid>
+            <pubDate>Sat, 6 Apr 2013 23:08:57 -0600</pubDate>
+        </item>
+        <item>
+            <title>Building Nicholson Workbench  by Will Myers</title>
+            <description>Another workbench?  Does this guy have nothing better to do than build one workbench after another?  First off, this one is not for me.  I recently received a commission to build a Nicholson style bench.</description>
+            <link>http://www.wkfinetools.com/contrib/wMyers/art/nicholsonBench/nicholsonBench-01.asp</link>
+            <guid isPermaLink="false">445CC761-8229-47BD-ADAA-E9A3004E23A0</guid>
+            <pubDate>Tue, 2 Apr 2013 14:16:29 -0600</pubDate>
+        </item>
+    </channel>
+</rss>

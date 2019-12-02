@@ -1,0 +1,446 @@
+
+<html>
+
+<head>
+<title>Search</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<script>
+function Paging(pageno){
+var frm = document.forms['Search'];
+frm.Page.value = pageno;
+frm.ActionType.value = 'Paging';
+frm.submit ();
+}
+</script>
+<link rel="stylesheet" href="./_frontlook/sse_style.css" type="text/css">
+
+<!--<meta name="Microsoft Border" content="none"> -->
+</head>
+<body topmargin="0">
+<div align="center">
+	
+
+<div align="center">
+	<table border="0" width="770" cellspacing="0" cellpadding="0" id="table1">
+		<tr>
+			<td align="center">
+			<img border="0" src="0_images/header/wkTools%20logo-100-Header-v5b-11-2006.jpg" width="770" height="100"></td>
+		</tr>
+		</table>
+</div>
+
+</div>
+	<div align="center">
+<table border="0" width="770" cellspacing="0" cellpadding="0" id="table2">
+		<tr>
+			<td width="150" align="left" valign="top" bgcolor="#DAB585">
+			
+
+<div align="left">
+	<table border="0" width="150" cellspacing="0" cellpadding="0" id="table1" bgcolor="#DAB585">
+		<tr>
+			<td align="center" valign="top" height="10">
+			<div align="center">
+				<table border="0" width="140" id="table2" cellpadding="2" cellspacing="1">
+					<tr>
+						<td height="4">
+						<p align="right" style="margin-bottom: -2px">
+						<span style="font-size: 8pt; font-weight: 700; font-variant:small-caps; font-style:italic">
+						<a href="search.asp">Library Search</a></span></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<span style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></span></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px"><b>
+						<font style="font-size: 8pt">
+						<a href="index.asp">Home</a></font></b></td>
+					</tr>
+					<tr>
+						<td>
+						<p style="margin-bottom: -2px">
+						<span style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></span></td>
+					</tr>
+					<tr>
+						<td>
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt"><b>
+						<a href="hUS/index.asp">US Tools &amp; Makers</a></b></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" width="146" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="21">
+						<p style="margin-bottom: -2px">
+						<span style="font-size: 8pt; font-weight: 700">
+						<a href="hUK/index.asp">UK Tools &amp; Makers</a></span></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" width="146" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<span style="font-weight: 700; font-size: 8pt">
+						<a href="cCorner/index.asp">Collector's Corner</a></span></td>
+					</tr>
+					<tr>
+						<td>
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<b><span style="font-size: 8pt">
+						<a href="collectors/index.asp">Collections</a></span></b></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<span style="font-size: 8pt; font-weight: 700">
+						<a href="cCorner/hunt/index.asp">The Hunt is On!</a></span></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<span style="font-weight: 700; font-size: 8pt">
+						<a href="tRestore/index.asp">Restoring Fine Tools</a></span></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<p style="margin-bottom: -2px">
+			<b><span style="font-size: 8pt"><a href="tMaking">Making Fine 
+			Tools</a></span></b></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<p style="margin-bottom: -2px">
+			<span style="font-size: 8pt; font-weight: 700">
+			<a href="tUsing/index.asp">Using Fine Tools</a></span></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<span style="font-size: 8pt; font-weight: 700">
+			<a href="contrib/mSinger/index.asp">Woodworking with<br>
+			Mark Singer</a></span></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<p style="margin-bottom: -2px">
+			<b>
+			<span style="font-size: 8pt"><a href="contrib/dCohen/index.asp">
+			Tools and Reviews</a></span><br>
+			<span style="font-size: 8pt"> <a href="contrib/dCohen/index.asp">
+			by Derek Cohen</a></span></b></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<p style="margin-bottom: -2px">
+			<font style="font-size: 8pt"><b>
+			<a href="contrib/jThompson/index.asp">Tips by Old Millrat</a></b></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<p style="margin-bottom: -2px">
+			<a href="pScott/index.asp">
+			<span style="font-weight: 700; font-size: 8pt">Letters</span></a><span style="font-weight: 700; font-size: 8pt"><a href="pScott/index.asp"> 
+			from Scott</a></span></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<p style="margin-bottom: -2px">
+			<a href="tMakers/tMakers.asp"><font style="font-size: 8pt">
+			<b>Fine Tool Makers</b></font></a></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<b><span style="font-size: 8pt"><a href="z_tDownL/index.asp">Top 
+			Downloads</a></span></b></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<p style="margin-bottom: -2px">
+			<b>
+			<a href="zMisc/booksMags/index.asp"><font style="font-size: 8pt">Books and 
+			Readings</font></a></b></td>
+					</tr>
+					<tr>
+						<td height="4">
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="4">
+			<p style="margin-bottom: -2px">
+			<b><a href="zMisc/orgClubs/index.asp">
+						<font style="font-size: 8pt">Associations &amp; Clubs</font></a></b></td>
+					</tr>
+					<tr>
+						<td>
+						<p style="margin-bottom: -2px">
+						<font style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10">
+			<span style="font-size: 8pt; font-weight: 700">
+			<a href="zMisc/advertise.asp">Advertise With Us</a></span></td>
+					</tr>
+					<tr>
+						<td height="10">
+			<font color="#CCCCFF" style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10">
+			<p style="margin-bottom: -2px"><b><font style="font-size: 8pt">
+			<a href="zMisc/contactUS.asp">Contact Us</a></font></b></p>
+						</td>
+					</tr>
+					<tr>
+						<td>
+			<font color="#CCCCFF" style="font-size: 8pt">
+						<img border="0" src="0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td>
+						<p align="center" class="small">
+						<img border="0" src="ad/appraisal/images/AppraisalService-1a.jpg" width="97" height="97"><br>
+						<a target="_blank" href="http://www.OldToolsShop.com">
+						<img border="0" src="0_images/nav-utility/OldToolsShop_Button.jpg" vspace="4" width="97" height="44"></a><br>
+						<a target="_blank" href="http://datamp.org/">
+						<img border="0" src="0_images/Logos/DATAMP_Logo_Small.jpg" width="97" height="56"></a><br>
+						<a target="_blank" href="http://ruckus.law.cornell.edu/mailman/listinfo/oldtools">
+						<img border="0" src="zMisc/orgClubs/images/OldTools_Org_Logo.jpg" vspace="4" width="84" height="66"></a></td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+	</table>
+	</div>
+
+</td>
+			<td width="10" background="0_images/nav-utility/verticleLine.gif">&nbsp;</td>
+			<td align="left" width="600" valign="top">
+
+
+
+
+<form name="Search" method="post">
+<div align="center">
+<table border="0" cellpadding="4" cellspacing="0" id="AutoNumber1" width="590">
+  <tr>
+    <td>
+	
+
+<div align="center">
+				<table border="0" width="590" id="table1" cellspacing="0" cellpadding="0">
+					<tr>
+						<td height="10" align="left" valign="bottom" width="488"></td>
+						<td height="10" width="10" align="left" valign="bottom"></td>
+						<td height="10" align="left" width="100" valign="bottom"></td>
+					</tr>
+					<tr>
+						<td align="left" valign="bottom" width="488" height="26">
+						<h4 style="margin-bottom: 0px">
+			Welcome to the Library</h4>
+						</td>
+						<td width="10" align="left" valign="bottom" height="26">
+						&nbsp;</td>
+						<td align="left" width="100" height="26" valign="bottom">
+						&nbsp;</td>
+					</tr>
+				</table>
+						</div>
+
+						<hr noshade color="#800000" size="4" align="left">
+						
+<p>
+	<font size="2">Welcome to our virtual library.&nbsp; We are open 24/7/365.&nbsp; You 
+	can search this website by keyword in two different configurations - Boolean 
+	or Exact Match.&nbsp; For more information, click on Help below. </font></td>
+  </tr>
+  
+  
+  
+  
+  
+  <tr>
+    <td class="sse_form">
+      Search for: <input type="text" name="query" size="40" maxlength="256" value="">
+      <input type="submit" value="Search" name="Action">&nbsp;&nbsp;&nbsp;
+      <br>
+		Search Area: 
+      <select size="1" name="Area">
+      <option  value="default.inc">Whole Site<option  value="set1.inc">US History<option  value="set2.inc">UK History<option  value="set3.inc">Restoring Tools<option  value="set4.inc">Using Tools<option  value="set5.inc">Making Tools
+      </select>&nbsp;&nbsp; <input type="radio" name="optQueryType" value="bool" checked>Boolean&nbsp;&nbsp;
+      <input type="radio" name="optQueryType" value="exact" >Exact match&nbsp;&nbsp;
+      <a href="javascript:void(0);" onclick="javascript:window.open('./_frontlook/SSEHelp.htm','SSEHelpWindow','width=600,height=300,scrollbars=yes,resizable=no');return false;">Help</a><br>
+    </td>
+  </tr>
+  <tr>
+   	<td class="sse_form">
+      <input type="hidden" name="ActionType" value="Search">
+      <input type="hidden" name="Page" value="1">
+      Items per page: 
+      <select size="1" name="PageItems">
+        <option value="5" > 5 
+        <option value="10" selected> 10
+        <option value="20" > 20
+        <option value="30" > 30
+        <option value="0" > All
+      </select> &nbsp;&nbsp;&nbsp;
+      Sort by <select size="1" name="SortOrder">
+        <option value="title" > Page title </option>
+        <option value="relv_desc" selected> Relevance </option>
+      </select>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td class="sse_form" height="10">
+      <hr noshade color="#000000" size="1">
+    </td>
+  </tr>
+  </table></div>
+<div align="center">
+	<table width="590" cellpadding="20" height="50">
+  <tr>
+    <td height="16" class="sse_results">
+    <span class="sse_error"></span>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+<table border="0" cellpadding="0" style="border-collapse: collapse" id="AutoNumber3" width="590">
+  <tr>
+    <td height="1" class="sse_error">
+      
+      &nbsp;
+      
+    </td>
+  </tr>
+  </table>
+
+<td width="10" align="right" valign="top" background="0_images/nav-utility/verticleLine-rightSide.jpg">&nbsp;</td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td width="150" align="left" valign="top" bgcolor="#DAB585" height="10">
+			<b><span style="font-size: 8pt">08/10/2006</span></b></td>
+			<td width="10" height="10" background="0_images/nav-utility/verticleLine.gif"></td>
+			<td align="left" width="600" valign="top" height="10">
+			</td>
+			<td align="right" width="10" valign="top" background="0_images/nav-utility/verticleLine-rightSide.jpg" height="10">
+			&nbsp;</td>
+		</tr>
+		</table>
+</div>
+
+
+
+<div align="center">
+	<table border="0" width="770" cellspacing="0" cellpadding="0" id="table1">
+		<tr>
+			<td height="10" bgcolor="#000000">&nbsp;</td>
+		</tr>
+		<tr>
+			<td height="20" align="center" valign="top">
+			<p class="small"><br>
+			<font size="1">Copyright © 1995-2006 wkFineTools.com.&nbsp; All Rights 
+			Reserved. <br>
+			Designated trademarks and brands are the property of their 
+			respective owners.</font></td>
+		</tr>
+		<tr>
+			<td height="20" align="center" valign="top">
+			<img border="0" src="0_images/nav-utility/getFlash.gif" width="88" height="31" vspace="6">
+			<img border="0" src="0_images/nav-utility/getReader.gif" width="88" height="31" vspace="6"></td>
+		</tr>
+	</table>
+</div>
+
+
+</body>
+</html>
+
