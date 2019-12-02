@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>wkFineTools Blog</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://wkfinetools.com/blog/wp-content/themes/2010-weaver/style.css" />
+<link rel="pingback" href="http://wkfinetools.com/blog/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="wkFineTools Blog &raquo; Feed" href="http://wkfinetools.com/blog/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="wkFineTools Blog &raquo; Comments Feed" href="http://wkfinetools.com/blog/?feed=comments-rss2" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wkfinetools.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wkfinetools.com/blog/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='wkFineTools Blog' href='http://wkfinetools.com/blog' />
+<meta name="generator" content="WordPress 3.0.3" />
+
+<!-- This site is using 2010 Weaver V1.4 subtheme: Wheat -->
+<meta name="description" content=" wkFineTools Blog -  " />
+<meta name="keywords" content="wkFineTools Blog blog, wkFineTools Blog" />
+<style type="text/css">
+#main { padding: 15px 0 0 0; }
+#container, #primary, #secondary, #ttw-top-widget, #ttw-bot-widget {-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;}
+#access {-moz-border-radius-bottomleft: 7px; -moz-border-radius-bottomright: 7px;
+  -webkit-border-bottom-left-radius: 7px; -webkit-border-bottom-right-radius: 7px;border-bottom-left-radius: 7px; border-bottom-right-radius: 7px;}#access2 {-moz-border-radius-topleft: 7px; -moz-border-radius-topright: 7px;
+  -webkit-border-top-left-radius: 7px; -webkit-border-top-right-radius: 7px;border-top-left-radius: 7px; border-top-right-radius: 7px;}#wrapper {-moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; margin-top: 15px; margin-bottom: 15px;}
+#wrapper {border: 1px solid #222222; padding-right: 20px; margin-top: 15px; margin-bottom: 15px;}
+#header {margin-top: 0px;}#primary, #secondary, #ttw-top-widget, #ttw-bot-widget {border: 1px solid #222222;}
+body, input, textarea { color: #333333; }
+#content, #content input, #content textarea { color: #292929; }
+#content {font-size: 120%; line-height: 125%; }
+#comments {font-size: 90%; line-height: 90%; }
+#comments .pingback p { color: #706752; }
+#respond label, #respond dt, #respond dd { color: #706752; }
+.entry-meta, .entry-content label, .entry-utility { color: #706752; }
+#content .wp-caption, #content .gallery .gallery-caption { color: #706752; }
+.navigation { color: #706752; }
+#content h1, #content h2, #content h3, #content h4, #content h5, #content h6 { color: #0A0A0A; }
+h1, h2, h3, h4, h5, h6 { color: #0A0A0A; }
+.page-title { color: #0A0A0A; }
+#content .entry-title { color: #0A0A0A; }
+.page-link { color: #0A0A0A; }
+#entry-author-info h2 { color: #0A0A0A; }
+h3#comments-title, h3#reply-title { color: #0A0A0A; }
+.comment-author cite { color: #0A0A0A; }
+.entry-content fieldset legend { color: #0A0A0A; }
+#colophon { border-top: 4px solid #AB9B7D ;  }
+hr { background-color: #AB9B7D; }
+.entry-title {border-bottom: 1px solid #0A0A0A; }
+.widget-title {border-bottom: 1px solid #222222; }
+#wrapper { background-color: #FEF3DD; }
+#main { background-color: transparent; }
+#container { background-color: transparent; }
+#content { background-color: transparent; }
+#footer { background-color: #F5DEB3; }
+#primary { background-color: #F5DEB3; padding-left: 10px; padding-top: 10px; margin-bottom: 5px;}
+#secondary { background-color: #F5DEB3; padding-left: 10px; padding-top: 10px; margin-bottom: 5px;}
+#ttw-top-widget, #ttw-bot-widget { background-color: #F5DEB3; padding-left: 10px; padding-top: 10px; margin-bottom: 5px;}
+body {background-image: url(http://wkfinetools.com/blog/wp-content/themes/2010-weaver/images/gr.png); background-attachment: scroll; background-repeat: repeat-x;}
+a:link { color: #474134; }
+a:visited { color: #706752; }
+a:active, a:hover { color: #C91640; }
+#primary a:link, #secondary a:link, #footer-widget-area a:link { color: #474134; }
+#primary a:visited, #secondary a:visited, #footer-widget-area a:visited { color: #706752; }
+#primary a:hover, #secondary a:hover, #footer-widget-area a:hover { color: #C91640; }
+.entry-title a:link { color: #0A0A0A; }
+.widget_rss a.rsswidget:link { color: #0A0A0A; }
+.entry-title a:visited { color: #0A0A0A; }
+.widget_rss a.rsswidget:visited { color: #0A0A0A; }
+.entry-title a:active, .entry-title a:hover { color: #C91640; }
+.widget_rss a.rsswidget:active, .widget_rss a.rsswidget:hover { color: #C91640; }
+.page-title a:link { color: #474134; }
+.entry-meta a:link { color: #474134; }
+.entry-utility a:link { color: #474134; }
+.navigation a:link { color: #474134; }
+.comment-meta a:link { color: #474134; }
+.reply a:link, a.comment-edit-link:link { color: #474134; }
+.page-title a:visited { color: #706752; }
+.entry-meta a:visited { color: #706752; }
+.entry-utility a:visited { color: #706752; }
+.navigation a:visited { color: #706752; }
+.comment-meta a:visited { color: #706752; }
+.reply a:visited, a.comment-edit-link:visited { color: #706752; }
+.page-title a:active, .page-title a:hover { color: #C91640; }
+.entry-meta a:hover, .entry-meta a:active { color: #C91640; }
+.entry-utility a:hover, .entry-utility a:active { color: #C91640; }
+.navigation a:active, .navigation a:hover { color: #C91640; }
+.comment-meta a:active, .comment-meta a:hover { color: #C91640; }
+.reply a:active, a.comment-edit-link:active, .reply a:hover, a.comment-edit-link:hover { color: #C91640; }
+#access, #access2 { background-color: #AB9B7D; }
+#access, #access li ul ul > a {font-weight:bold;}#access2, #access2 li ul ul > a {font-weight:bold;}#access ul ul a, #access li:hover > a, #access ul ul :hover > a  { background-color: #BAA987; }
+#access2 ul ul a, #access2 li:hover > a, #access2 ul ul :hover > a  { background-color: #BAA987; }
+#access a { color: #FFFAEF; }
+#access2 a { color: #FFFAEF; }
+#access li:hover > a, #access ul ul :hover > a { color: #F0EBE0; }
+#access2 li:hover > a, #access2 ul ul :hover > a { color: #F0EBE0; }
+#access ul li.current_page_item > a, #access ul li.current-menu-ancestor > a,
+#access ul li.current-menu-item > a, #access ul li.current-menu-parent > a { color: #474134; }
+#access2 ul li.current_page_item > a, #access2 ul li.current-menu-ancestor > a,
+#access2 ul li.current-menu-item > a, #access ul li.current-menu-parent > a { color: #474134; }
+#site-title a { color: #FEF9EE; }
+#site-description { color: #FFFAEF; }
+#site-title {position: absolute; margin-top: 44px; margin-left: 40px; }
+#site-description { text-align:left; clear: both; float: left; position:absolute;  margin-top: 90px;  margin-left: 40px;}
+body, input, textarea, .page-title span, .pingback a.url { font-family: "Georgia", "Times New Roman", Times, serif;}
+h3#comments-title, h3#reply-title, #access .menu, #access div.menu ul, #access2 .menu, #access2 div.menu ul,
+#cancel-comment-reply-link, .form-allowed-tags, #site-info, #site-title, #wp-calendar,
+.comment-meta, .comment-body tr th, .comment-body thead th, .entry-content label, .entry-content tr th,
+.entry-content thead th, .entry-meta, .entry-title, .entry-utility, #respond label, .navigation,
+.page-title, .pingback p, .reply, .widget_search label, .widget-title, input[type=submit] { font-family: "Georgia", "Times New Roman", Times, serif;}
+#site-description {font-size:130%; font-style:bold;}body { background-color: #C7B491; }
+body {background-image: url(http://wkfinetools.com/blog/wp-content/themes/2010-weaver/images/gr.png); background-attachment: scroll; background-repeat: repeat-x;}
+#wrapper {box-shadow: 0 0 3px 3px rgba(0,0,0,0.25); -webkit-box-shadow: 0 0 3px 3px rgba(0,0,0,0.25); -moz-box-shadow: 0 0 3px 3px rgba(0,0,0,0.25);}
+</style> <!-- end of style section -->
+
+<!-- Add your own CSS snippets between the style tags. -->
+<style type="text/css">
+</style>
+<!-- End of TT Weaver options -->
+</head>
+
+<body class="home blog">
+<div id="wrapper" class="hfeed">
+
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+				<div id="ttw-site-logo"></div>
+				<div id="ttw-site-logo-link" onclick="location.href='http://wkfinetools.com/blog/';" style="cursor:pointer;"></div>
+												<h1 id="site-title">
+					<span>
+						<a href="http://wkfinetools.com/blog/" title="wkFineTools Blog" rel="home">wkFineTools Blog</a>
+					</span>
+				</h1>
+				<div id="site-description"></div>
+				
+													<div id="access2" role="navigation">
+										<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+															</div><!-- #access2 -->
+														<img src="http://wkfinetools.com/blog/wp-content/themes/2010-weaver/images/headers/path.jpg" width="940" height="198" alt="" />
+								</div><!-- #branding -->
+
+						<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul><li class="current_page_item"><a href="http://wkfinetools.com/blog/" title="Home">Home</a></li><li class="page_item page-item-2"><a href="http://wkfinetools.com/blog/?page_id=2" title="About">About</a></li></ul></div>
+			</div><!-- #access -->
+								</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">	<div id="container">
+                <div id="content" role="main">
+	    
+
+
+
+
+			<div id="post-1" class="post-1 post type-post hentry category-uncategorized">
+			<h2 class="entry-title"><a href="http://wkfinetools.com/blog/?p=1" title="Permalink to Hello world!" rel="bookmark">Hello world!</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://wkfinetools.com/blog/?p=1" title="11:45 pm" rel="bookmark"><span class="entry-date">December 10, 2010</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://wkfinetools.com/blog/?author=1" title="View all posts by wkft">wkft</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://wkfinetools.com/blog/?cat=1" title="View all posts in Uncategorized" rel="category">Uncategorized</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><a href="http://wkfinetools.com/blog/?p=1#comments" title="Comment on Hello world!">1 Comment</a></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+	</div><!-- #content -->
+                </div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" action="http://wkfinetools.com/blog/" >
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Search" />
+	</div>
+	</form></li>		<li id="recent-posts-2" class="widget-container widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+				<li><a href="http://wkfinetools.com/blog/?p=1" title="Hello world!">Hello world!</a></li>
+				</ul>
+		</li><li id="recent-comments-2" class="widget-container widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments">wkft on <a href="http://wkfinetools.com/blog/?page_id=2#comment-2">About</a></li><li class="recentcomments"><a href='http://wordpress.org/' rel='external nofollow' class='url'>Mr WordPress</a> on <a href="http://wkfinetools.com/blog/?p=1#comment-1">Hello world!</a></li></ul></li><li id="archives-2" class="widget-container widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='http://wkfinetools.com/blog/?m=201012' title='December 2010'>December 2010</a></li>
+		</ul>
+</li><li id="categories-2" class="widget-container widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://wkfinetools.com/blog/?cat=1" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+		</ul>
+</li><li id="meta-2" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://wkfinetools.com/blog/wp-login.php">Log in</a></li>
+			<li><a href="http://wkfinetools.com/blog/?feed=rss2" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wkfinetools.com/blog/?feed=comments-rss2" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+	<div id="footer">
+		<div id="colophon">
+
+<table id='ttw_ftable'><tr>
+ <td id='ttw_ftdl'><div id="site-info">
+ &copy; 2010 - <a href="http://wkfinetools.com/blog/" title="wkFineTools Blog" rel="home">wkFineTools Blog</a>
+ </div></td>  
+ <td id='ttw_ftdr'><div id="site-generator">
+  <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress.</a>
+ 2010 Weaver by WPWeaver.info
+ </div></td> </tr></table>
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+</body>
+</html>

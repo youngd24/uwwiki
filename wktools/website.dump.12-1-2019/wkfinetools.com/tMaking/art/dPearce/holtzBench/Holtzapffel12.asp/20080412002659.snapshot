@@ -1,0 +1,617 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="STYLESHEET" type="text/css" href="../../../../0_includes/wkToolsStyle.css">
+<title>Building the Holtzapffel Workbench by David Pearce</title>
+<meta name="keywords" content="Antiques,Atkins,Bailey,Beardshaw,Blades,Collectables,Chain, Disston,Fine tools,Fine woodworking, Goodell Pratt,Handsaws,Honing,Inlay woods,lacquer thinner,Norris,Oil polish,Old tools,Plane,Pritzlaff,Saw,Shellac,sealer coat, Simonds,solution,Stanley,Sweetheart,Traditional tools,Vintage tool,Wax,Wax stick,Woodworking,Totes,Knob,planer blade,old glue, oxalic acid solution,varnish finish,denatured alcohol,disc sander,mineral spirits,colors ground,remove the finish,wax finish, fancy chairs,furniture,raw umber,raw linseed oil,opaque pigment,lacquer,wax,wood,Goodman,VINTAGE BELKNAP BLUE GRASS WOOD PLANE, VINTAGE DISSTON CAST IRON AND IRON TREE LIMB SAW,BISHOP,1800s,Antique,R.Groves & Sons,Back Saw, Tenon, Dovetail, HARVEY PEACE, HAND SAW, BROOKLYN, N.Y. PAT, 1869,shelton,Disston Saw, Tool and File Manual(1937),beardshaw,shelton plane,beardshaw,steiner and sauer planes,jointer fence,degree campher,bevel,woodworking shooting board,atkins stair saw,hnt gordon planes,shelton basket,shelton plane collector,saw in history henry disston,antique icebox,atkins,bailey plane disassembly,beardshaw saw,buck bro tools,cresson saws, shooting board,disston domain:wkfinetools.com,disston history,disston keystone saws,disston markings chronology,e.c.atkins,finetools.com,lewis hidden treasures,hand powered grinder,sharpen,henry disston,henry disston handsaws,henry disston history,hock,hock custom,plane blades">
+
+<SCRIPT LANGUAGE="JavaScript">
+function popUp(URL) {
+var id = 'PUPUP';
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=yes,location=0,statusbar=0,menubar=0,resizable=0,width=610,height=500,left = 50,top = 05');");
+}
+</script>
+<style>
+<!--
+div.Section1
+	{page:Section1;}
+-->
+</style>
+</head>
+<body topmargin="0">
+
+
+
+<div align="center">
+	<table border="0" width="769" cellspacing="0" cellpadding="0" id="table1">
+		<tr>
+			<td align="right" background="../../../../0_images/header/wkTools%20logo-100-Header-v5c-02-2008.jpg" height="100" valign="bottom">
+			
+
+			
+			
+			
+			
+			</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#000000" height="16" valign="top">
+			<div align="center">
+				<table border="0" width="100%" cellspacing="0" cellpadding="0" id="table2" height="10">
+					<tr>
+						<td width="146">
+						<p style="text-indent: 20px">
+						<font color="#FFFFFF" style="font-size: 8pt; font-weight:700">
+						<a href="../../../../index.asp"><font color="#FFFFFF">Home</font></a>&nbsp; 
+						|&nbsp; <a href="../../../../zMisc/search.asp"><font color="#FFFFFF">
+						Search</font></a> </font></td>
+						<td>&nbsp;</td>
+						<td width="250">
+						<p align="center"><font color="#FFFFFF"><b>
+						<font style="font-size: 8pt">&nbsp;</font><a href="../../../../z_tDownL/index.asp"><font color="#FFFFFF" style="font-size: 8pt">Downloads</font></a><font style="font-size: 8pt"> 
+						| <a href="../../../../zMisc/contact/contactUS.asp"><font color="#FFFFFF">Contact Us</font></a> |
+						<a href="../../../../zMisc/adver/advertise.asp"><font color="#FFFFFF">
+						Advertise</font></a> </font></b></font></td>
+					</tr>
+				</table>
+			</div>
+			</td>
+		</tr>
+		</table>
+</div>
+
+<div align="center">
+	<table border="0" width="770" cellspacing="0" cellpadding="0" id="table2">
+		<tr>
+			<td width="2" align="center" valign="top" bgcolor="#DAB585" background="../../../../0_images/nav-utility/verticleLine-Left.gif">
+			&nbsp;</td>
+			<td width="150" align="center" valign="top" bgcolor="#DAB585">
+			
+
+<div align="left">
+	<table border="0" width="150" cellspacing="0" cellpadding="0" id="table1" bgcolor="#DAB585">
+		<tr>
+			<td align="center" valign="top" height="10" width="146">
+			<div align="center">
+				<div align="center">
+
+				<table border="0" width="146" id="table32" cellspacing="0" align="right">
+					<tr>
+						<td width="146" height="10">
+						</td>
+					</tr>
+					<tr>
+						<td width="146" height="10">
+						<p>
+						<font style="font-size: 8pt"><b>
+						&nbsp;<a href="../../../../hUS/index.asp"><span style="text-decoration: none">US Tools &amp; Makers</span></a></b></font></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" width="146" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+						<p>
+						<span style="font-size: 8pt; font-weight: 700">
+						&nbsp;<a href="../../../../hUK/index.asp"><span style="text-decoration: none">UK Tools &amp; Makers</span></a></span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+					
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" width="146" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+					
+						<span style="font-weight: 700; font-size: 8pt">
+						&nbsp;<a href="../../../../cCorner/index.asp"><span style="text-decoration: none">Collector's Corner</span></a></span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+				
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			
+						<b><span style="font-size: 8pt">
+						&nbsp;<a href="../../../../collectors/index.asp"><span style="text-decoration: none">Collections</span></a></span></b></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+			
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+					
+						<span style="font-size: 8pt; font-weight: 700">
+						&nbsp;<a href="../../../../cc_hunt/index.asp"><span style="text-decoration: none">The 
+						Hunt is On!</span></a></span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+						<p>
+						<span style="font-weight: 700; font-size: 8pt">
+						&nbsp;<a href="../../../../tRestore/index.asp"><span style="text-decoration: none">Restoring 
+						Old Tools</span></a></span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			<span style="font-size: 8pt; font-weight: 700">&nbsp;<a href="../../../../tCare/toolCare.asp"><span style="text-decoration: none">Tool 
+			Care</span></a></span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			<p>
+			<b><span style="font-size: 8pt">&nbsp;<a href="../../../../tMaking"><span style="text-decoration: none">Making 
+			Fine Tools</span></a></span></b></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			<p>
+			<span style="font-size: 8pt; font-weight: 700">
+			&nbsp;<a href="../../../../tUsing/index.asp"><span style="text-decoration: none">Using 
+			Fine Tools</span></a></span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="8" width="146">
+			
+						<span style="font-size: 8pt; font-weight: 700"><u>&nbsp;</u><a href="../../../../cc_how/index.asp"><span style="text-decoration: none">How 
+						Was It Done?</span></a></span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="8" width="146">
+			&nbsp;<font style="font-size: 8pt"><b><a href="../../../../contrib/pBaker/pBaker-index.asp"><span style="text-decoration: none">Philip 
+			W. Baker</span></a></b></font><br>
+			<font style="font-size: 7pt">&nbsp;&nbsp; Saw Talk</font></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			&nbsp;<span style="text-decoration: none; font-weight:700"><a href="../../../../contrib/pScott/index.asp"><span style="font-size: 8pt; text-decoration: none">Scott 
+			Grandstaff</span></a></span><span style="font-weight: 700; font-size: 8pt"><u><br>
+			</u>&nbsp; </span>
+			<span style="font-size: 7pt; text-decoration:none">Shop Fun</span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			<font style="font-size: 8pt; font-weight: 700">
+			&nbsp;<a href="../../../../contrib/cSchwarz/index.asp"><span style="text-decoration: none">Chris Schwarz</span></a></font><br>
+			<span style="text-decoration: none">
+			<font style="font-size: 8pt; font-weight: 700">
+			&nbsp; </font>
+			<font style="font-size: 7pt; ">
+			Learn Discover Build</font></span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			<span style="font-weight: 700; font-size: 8pt; text-decoration:none"> 
+			&nbsp;</span><span style="font-size: 8pt; font-weight: 700">&nbsp;<a href="../../../../contrib/mSinger/index.asp"><span style="text-decoration: none">Mark Singer</span></a></span><br>
+			<span style="font-weight: 700; font-size: 8pt">&nbsp; </span>
+			<span style="font-size: 7pt; text-decoration: none">
+			Furniture Building</span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			<p align="left">
+			&nbsp;<span style="font-size: 8pt; font-weight: 700"><a href="../../../../contrib/bSmalser/index.asp"><span style="text-decoration: none">Bob Smalser</span></a></span><br>
+			<span style="text-decoration: none; font-size: 8pt; font-weight: 700">&nbsp; </span>
+			<span style="text-decoration: none; font-size: 7pt; ">Tools and Wood</span></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			<p>
+			<span style="font-size: 8pt"><b>&nbsp;</b></span><font style="font-size: 8pt"><b><a href="../../../../contrib/jThompson/index.asp"><span style="text-decoration: none">James Thompson</span></a></b></font><br>
+			<font style="font-size: 7pt">&nbsp;&nbsp; Shop <span style="text-decoration: none">
+			Tips</span></font></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			<p>
+			<b>
+			<font style="font-size: 8pt; ">
+			&nbsp;</font><a href="../../../../tMakers/tMakers.asp"><font style="font-size: 8pt; text-decoration:none">Fine Tool Makers</font></a></b></td>
+					</tr>
+					<tr>
+						<td height="2" width="146">
+						
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td height="10" width="146">
+			<p>
+			<b>
+						<font style="font-size: 8pt; ">
+			&nbsp;</font><a href="../../../../zMisc/orgClubs/index.asp"><font style="font-size: 8pt; text-decoration:none">Associations &amp; Clubs</font></a></b></td>
+					</tr>
+					<tr>
+						<td width="146" height="2">
+						
+						<font style="font-size: 8pt">
+						<img border="0" src="../../../../0_images/nav-utility/cellBackground.jpg" height="2"></font></td>
+					</tr>
+					<tr>
+						<td width="146" height="8">
+						
+						</td>
+					</tr>
+					<tr>
+						<td width="146">
+						<table border="1" width="100%" cellspacing="0" id="table33" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellpadding="0">
+							<tr>
+								<td bgcolor="#CC9900">
+								<p align="center"><font color="#FFFFFF"><b>
+								<span style="font-size: 8pt">Best of the Web</span></b></font></td>
+							</tr>
+							<tr>
+								<td align="left" valign="top" width="100%">
+								<p align="left" style="margin-bottom: -16px; margin-top:2px">
+								<font style="font-size: 7pt" face="Verdana"><b>
+								&nbsp;<a target="_blank" href="http://www.davidcharlesworth.co.uk/">Charlesworth Fine Furniture</a></b></font><p align="left" style="margin-bottom: -16px">
+								<b><span style="font-size: 7pt">
+								&nbsp;<a target="_blank" href="http://www.cornishworkshop.co.uk/">Cornish Workshop</a></span></b></p>
+								<p align="left" style="margin-bottom: -16px">
+								<span style="font-size: 7pt; font-weight: 700">
+								&nbsp;<a target="_blank" href="http://www.woodworking-magazine.com/blog/">C. Schwartz Weblog</a></span></p>
+								<p align="left" style="margin-bottom: -16px">
+								<span style="font-size: 7.5pt"><b>Vintage Tools</b></span></p>
+								<p align="left" style="margin-bottom: -16px">
+								<span style="font-size: 7pt; font-weight: 700">
+								&nbsp;<a target="_blank" href="http://www.jimbodetools.com/">Bode Antique Tools</a></span><p align="left" style="margin-bottom: -16px">
+								<span style="font-size: 7pt; font-weight: 700">
+								&nbsp;<a target="_blank" href="http://www.oldtoolheaven.com/index.html">Millers Falls with Randy</a></span><p align="left" style="margin-bottom: -16px">
+								<span style="font-size: 7pt; font-weight: 700">
+								&nbsp;<a class="l" onmousedown="return clk(this.href,'','','res','1','&amp;sig2=ftyLgcyUHzwjilioCMcJsg')" target="_blank" href="http://www.supertool.com/StanleyBG/stan0a.html">Stanley Blood &amp; Gore</a></span><p align="left" style="margin-bottom: -16px">
+								<span style="font-weight: 700; font-size: 7pt">
+								&nbsp;<a target="_blank" href="http://www.toolemera.com">Toolemera Press</a></span><p align="left">
+								<span style="font-size: 7pt; font-weight: 700">
+								&nbsp;<a target="_blank" href="http://www.yesteryearstools.com/Yesteryears%20Tools/Home.html">YesteryearsTools.com</a></span></td>
+							</tr>
+						</table>
+
+						</td>
+					</tr>
+				</table>
+			
+				</div>
+				<p align="left">&nbsp;</div>
+			</td>
+		</tr>
+	</table>
+	</div>
+
+				
+
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3446451563753965";
+//120x600, created 1/9/08
+google_ad_slot = "5895808359";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+<p>
+<script type="text/javascript"><!--
+google_ad_client = "pub-3446451563753965";
+//120x600, created 1/9/08
+google_ad_slot = "8328627015";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+
+
+
+<p> 
+<script type="text/javascript"><!--
+google_ad_client = "pub-3446451563753965";
+//120x600, created 1/9/08
+google_ad_slot = "8604798430";
+google_ad_width = 120;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+
+</td>
+			<td width="10" background="../../../../0_images/nav-utility/verticleLine.gif">&nbsp;</td>
+			<td align="left" width="5" valign="top">
+			&nbsp;</td>
+			<td align="left" width="586" valign="top">
+			<div align="left">
+				
+
+<div align="center">
+				<div align="left">
+				<table border="0" width="100%" id="table1" cellspacing="0" cellpadding="0">
+					<tr>
+						<td height="10" align="left" valign="bottom"></td>
+						<td height="10"></td>
+						<td height="10" align="center" valign="bottom"></td>
+					</tr>
+					<tr>
+						<td align="left" valign="bottom" width="488" height="26">
+						<h4 style="margin-bottom: 0px">
+				Making Fine Woodworking Tools</h4>
+						</td>
+						<td width="10" height="26" valign="bottom">&nbsp;</td>
+						<td align="center" width="100" height="26" valign="bottom">
+							&nbsp;</td>
+					</tr>
+				</table>
+						
+						</div>
+						
+						<hr noshade color="#800000" size="4" align="left">
+						
+						</div>
+
+<table border="0" width="586" cellspacing="0" cellpadding="0" id="table34">
+					<tr>
+						<td>
+			<p class="subtitle">Building the Holtzapffel Workbench
+			<span style="font-weight: 400"><font size="2">by </font></span>
+			<font size="2"><span style="font-weight: 400">David Pearce</span></font></td>
+						<td width="6">&nbsp;</td>
+						<td align="right" width="115" height="26" valign="bottom">
+						<p align="right">
+						<span style="font-size: 8pt; font-weight: 700">
+						<a href="Holtzapffel11.asp">
+						<img border="0" src="../../../../0_images/nav-utility/arrowBack.jpg" width="24" height="23"></a> 
+						12 of 18 <a href="Holtzapffel13.asp">
+						<img border="0" src="../../../../0_images/nav-utility/arrowNext.jpg" width="24" height="23"></a></span></td>
+					</tr>
+				</table>
+				<p><b>Part IV</b></p>
+				<p><b>Deadman’s Curve</b></p>
+				<p style="text-indent: 30px">It’s amazing that once you get to a 
+				certain point in a project even trivial tasks can be daunting.&nbsp; 
+				Forging ahead is sometimes the only way to go regardless of how 
+				many problems you might encounter in doing so.&nbsp; Once I arrived at 
+				the place where the top and the base were ready to be 
+				permanently mated, it seemed that every single mistake I’d made 
+				up until this point was about to be magnified.&nbsp; </p>
+				<p style="text-indent: 30px">My worry was that 
+				somehow the base and the top weren’t going to square up 
+				properly, or in joining the pieces, I might somehow amplify the 
+				issues of less than perfect cuts and joints.&nbsp; I had to remind 
+				myself more than once that this wasn’t some piece of furniture 
+				that’d end up in my living room, I’d be forced to stare at for 
+				the next 30 years, this was a workbench, and is intended to be 
+				worked on, hammered, scratched and abused.&nbsp; With that in 
+				mind I actually became more motivated to just get out there and 
+				work, regardless.&nbsp; </p>
+				<p style="text-indent: 30px">Since I wrote the last installment, 
+				I’ve traded my half of the 2 car garage for the 10x12 shed out 
+				back.&nbsp; I’ve got less room overall, but since I left the usual 
+				garage clutter behind and only have my woodworking tools to 
+				navigate around, it’s not that bad.&nbsp; The hard part was moving 
+				that workbench top by myself from the garage to the shed.&nbsp; 
+				A little ingenuity and a wheelbarrow came in handy.&nbsp; </p>
+				<p style="text-indent: 30px">With the top upside down on a 
+				folding table, I decided this would be the ideal time to cut a 
+				groove for the sliding deadman.&nbsp; This was a pretty long groove, 
+				so to save my hands and time, I decided against using a drill 
+				and mortising chisel and instead used a router.&nbsp; The router 
+				needed about four passes to complete the groove, and even then 
+				it balked a bit.&nbsp; It’s not a very powerful tool, and I 
+				probably should’ve done more research before buying it, but at 
+				the time I wasn’t planning on cutting a 1 inch deep groove in a 
+				solid piece of yellow pine.&nbsp; </p>
+				<p align="center"><img border="1" src="part4/Inst4_No_01.jpg"></p>
+				<p align="center"><b><span style="font-size: 8pt">The groove for 
+				the sliding deadman,<br>
+				running between the two front leg mortises.&nbsp; </span></b></p>
+				<p style="text-indent: 30px">You’ll notice in the picture above 
+				I have a few hand tools laying around.&nbsp; In routing the groove, I 
+				made a few errors, like not thoroughly clamping my guide down 
+				(no, my router doesn’t have a fence), which caused the bit to 
+				wander into the groove wall in several places.&nbsp; After setting the 
+				router aside, I used my mortising chisel and a few bevel edge 
+				chisels to clean up the sloppy router work, all the while 
+				cursing that thing under my breath.&nbsp; Besides being noisy, dusty, 
+				and ill-tempered, I thought I was going to lose my sliding deadman.&nbsp; 
+				In the end, with a little hand tool work the groove came out 
+				fine, although slightly wider than I had planned.&nbsp; </p>
+				<p><b>North meets South</b></p>
+				<p style="text-indent: 30px">Now it was time to get the top and 
+				the base together.&nbsp; The first order of business was to get the 
+				holes ready on the two faces of my top for the lag screws I was 
+				going to use to attach the base.&nbsp; I opted for lag screws only 
+				from the perspective that I wasn’t comfortable trying to use the 
+				drawboring method Chris used to attach his base and top.&nbsp; 
+				I’ll practice first on some scrap before trying it out on 
+				something I’m investing a lot of work in.&nbsp; </p>
+				<p style="text-indent: 30px">Using the lag screws, the first 
+				thing to do is drill out a sufficient “hole” to allow the hex 
+				heads on the bolts to sit slightly under the surface of the 
+				bench top face.&nbsp; Using a Forstner bit and a drill made for 
+				easy work.&nbsp; </p>
+				<p align="center"><img border="1" src="part4/Inst4_No_02.JPG"></p>
+				<p align="center"><b><span style="font-size: 8pt">Just enough 
+				depth to allow the hex heads to sit below the surface.&nbsp; </span></b></p>
+				<p style="text-indent: 30px">Next up, I needed to drill through 
+				the mortise walls and get them ready for the lag screws I 
+				intended on using.&nbsp; </p>
+				<p align="center"><img border="1" src="part4/Inst4_No_03.JPG"></p>
+				<p align="center"><b><span style="font-size: 8pt">Lag screw 
+				holes</span></b></p>
+				<p style="text-indent: 30px">And finally after doing this to 
+				each of the four mortises in the bench top, I dry fitted the top 
+				to the bottom, to check out the fit.&nbsp; Dry fitting these pieces 
+				together was probably the step I wanted to skip the most.&nbsp; The 
+				base was heavy and unwieldy especially in a small shed, but I’m 
+				glad I did.&nbsp; A few minutes trimming the tenons were required to 
+				loosen the fit up a bit.&nbsp; </p>
+				<p style="text-indent: 30px">Next, I spread glue on all the tenons, 
+				and carefully aligned them with the mortises and pounded them 
+				home.&nbsp; I thought ahead a little bit and set the base on 
+				four sheets of wax paper, just slightly offset from the mortises 
+				in the top, so spreading the glue and moving the base into place 
+				was a much easier task than trying to lift it from the ground 
+				and align it while minimizing glue drips.&nbsp; </p>
+				<p style="text-indent: 30px">Driving the lag screws home was the 
+				final step, but I noticed my base and top weren’t completely 
+				square across all the shoulders.&nbsp; I ended up using a little bit 
+				of clamping pressure to make sure as much shoulder as possible 
+				was contacting the bench top without over-clamping and 
+				accidentally distorting the frame.&nbsp; My shoulders weren’t 
+				perfect, but since I was using heavy lag screws I wasn’t too 
+				concerned.&nbsp; </p>
+				<table border="0" width="586" cellspacing="0" cellpadding="0" id="table38">
+					<tr>
+						<td>
+			
+
+<p style="margin-top: 0; margin-bottom: 0"><a target="_blank" href="http://www.bluesprucetoolworks.com/index.htm">
+<img border="0" src="../../../../ad_images/blueSpruce/img/horisBanner-460.jpg" width="460" height="58"></a></p>
+
+</td>
+						<td width="8">&nbsp;</td>
+						<td align="right" width="129" height="26" valign="bottom">
+						<p align="right">
+						<span style="font-size: 8pt; font-weight: 700">
+						<a href="Holtzapffel11.asp">
+						<img border="0" src="../../../../0_images/nav-utility/arrowBack.jpg" width="24" height="23"></a> 
+						12 of 18 <a href="Holtzapffel13.asp">
+						<img border="0" src="../../../../0_images/nav-utility/arrowNext.jpg" width="24" height="23"></a></span></td>
+					</tr>
+				</table>
+				</div>
+			</td>
+			<td align="left" width="5" valign="top">
+			&nbsp;</td>
+			<td align="right" width="10" valign="top" background="../../../../0_images/nav-utility/verticleLine-rightSide.jpg">
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="2" align="left" valign="top" bgcolor="#DAB585" height="10" background="../../../../0_images/nav-utility/verticleLine-Left.gif">
+			&nbsp;</td>
+			<td width="150" align="left" valign="top" bgcolor="#DAB585" height="10">
+			&nbsp;</td>
+			<td width="10" height="10" background="../../../../0_images/nav-utility/verticleLine.gif"></td>
+			<td align="left" width="5" valign="top" height="10">
+			</td>
+			<td align="left" width="586" valign="top" height="10">
+			<p align="right"></td>
+			<td align="left" width="5" valign="top" height="10">
+			</td>
+			<td align="right" width="10" valign="top" background="../../../../0_images/nav-utility/verticleLine-rightSide.jpg" height="10">
+			&nbsp;</td>
+		</tr>
+	</table>
+</div>
+
+
+
+<div align="center">
+	<table border="0" width="770" cellspacing="0" cellpadding="0" id="table1">
+		<tr>
+			<td height="10" bgcolor="#000000">&nbsp;</td>
+		</tr>
+		<tr>
+			<td height="20" align="center" valign="top">
+			<p class="small"><b>For best viewing experience use Microsoft Internet 
+			Explorer.</b><br>
+			<font size="1">Copyright © 1995-2008 wkFineTools.com and Wiktor Kuc.&nbsp; All Rights 
+			Reserved. <br>
+			Designated trademarks and brands are the property of their 
+			respective owners.</font></td>
+		</tr>
+		<tr>
+			<td height="20" align="center" valign="top">
+			<img border="0" src="../../../../0_images/nav-utility/getFlash.gif" width="88" height="31" vspace="6">
+			<img border="0" src="../../../../0_images/nav-utility/getReader.gif" width="88" height="31" vspace="6"></td>
+		</tr>
+	</table>
+</div>
+
+
+
+</body>
+
+</html>
